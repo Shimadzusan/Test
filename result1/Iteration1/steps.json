@@ -1,0 +1,56 @@
+[
+    {
+        "stepId": "STEP1",
+        "stepName": "Url: SAD",
+        "infFile": "t1.inf",
+        "time": 1584803803833
+    },
+    {
+        "stepId": "STEP2",
+        "stepName": "Custom Request: ServletStandartMode",
+        "infFile": "t2.inf",
+        "time": 1584803803936
+    },
+    {
+        "stepId": "STEP3",
+        "stepName": "Custom Request: ServletStandartMode_2",
+        "infFile": "t3.inf",
+        "time": 1584803804043
+    },
+    {
+        "stepId": "STEP4",
+        "stepName": "Custom Request: ServletStandartMode_2",
+        "infFile": "t4.inf",
+        "time": 1584803804187
+    },
+    {
+        "stepId": "STEP5",
+        "stepName": "Url: SAD",
+        "infFile": "t5.inf",
+        "time": 1584803804245
+    },
+    {
+        "stepId": "STEP6",
+        "stepName": "Custom Request: ServletReportMode",
+        "infFile": "t6.inf",
+        "time": 1584803804361
+    },
+    {
+        "stepId": "STEP7",
+        "stepName": "Submit Data: ServletClassicalReport",
+        "infFile": "t7.inf",
+        "time": 1584803806472
+    },
+    {
+        "stepId": "STEP8",
+        "stepName": "Custom Request: ServletReportMode_2",
+        "infFile": "t8.inf",
+        "time": 1584803806562
+    },
+    {
+        "stepId": "STEP9",
+        "stepName": "Submit Data: ServletClassicalReport_2",
+        "infFile": "t9.inf",
+        "time": 1584803808665
+    }
+]

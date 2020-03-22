@@ -1,0 +1,149 @@
+{
+  "FilterHeaders": [
+    {
+      "Header": "user-agent",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "cache-control",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-language",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-encoding",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept",
+      "IncludeInScript": false
+    }
+  ],
+  "FilterResources": [
+    {
+      "IsNonResource": true,
+      "type": "text/html"
+    },
+    {
+      "IsNonResource": false,
+      "type": "text/css"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/x-icon"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/javascript"
+    }
+  ],
+  "GeneralInfo": {
+    "BrowserVersion": "",
+    "MaxUsedConnections": 6,
+    "RecordedBrowser": "Internet Explorer",
+    "RecordingDate": "���-21-2020",
+    "RecordingDuration": 125343,
+    "RecordingTimeStamp": 1584797535,
+    "TotalBytesReceived": 44197,
+    "TotalBytesSent": 2720,
+    "TotalRequests": 8
+  },
+  "HostInfo": [
+    {
+      "DomainName": "localhost",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "[::1]",
+          "IncludeInScript": true,
+          "Name": "localhost",
+          "Port": 8081,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 2015,
+              "EventId": 257,
+              "HttpStatus": 200,
+              "Size": 1690,
+              "URL": "http://localhost:8081/SAD/ServletClassicalReport"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 16,
+              "EventId": 255,
+              "HttpStatus": 200,
+              "Size": 0,
+              "URL": "http://localhost:8081/SAD/ServletReportMode"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 2015,
+              "EventId": 249,
+              "HttpStatus": 200,
+              "Size": 2418,
+              "URL": "http://localhost:8081/SAD/ServletClassicalReport"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 16,
+              "EventId": 247,
+              "HttpStatus": 200,
+              "Size": 0,
+              "URL": "http://localhost:8081/SAD/ServletReportMode"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/x-icon",
+              "DownloadTime": 16,
+              "EventId": 146,
+              "HttpStatus": 200,
+              "Size": 21630,
+              "URL": "http://localhost:8081/favicon.ico"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 32,
+              "EventId": 144,
+              "HttpStatus": 200,
+              "Size": 11534,
+              "URL": "http://localhost:8081/SAD/script.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/css",
+              "DownloadTime": 16,
+              "EventId": 142,
+              "HttpStatus": 200,
+              "Size": 369,
+              "URL": "http://localhost:8081/SAD/style.css"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 15,
+              "EventId": 140,
+              "HttpStatus": 200,
+              "Size": 6556,
+              "URL": "http://localhost:8081/SAD/"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    }
+  ],
+  "WebSocket": {
+    "IncludeInScript": false,
+    "IsScriptIncludeWebSocket": false
+  },
+  "NumberOfCorrelations": 0
+}

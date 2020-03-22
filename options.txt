@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\AMD WIN\Documents\VuGen\Scripts\TestSAD
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ec:\users\amd win\documents\vugen\scripts\testsad\\logfile.log
+c:\users\amd win\documents\vugen\scripts\testsad\\combined_TestSAD.c
+c:\users\amd win\documents\vugen\scripts\testsad\\pre_cci.c

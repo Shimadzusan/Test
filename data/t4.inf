@@ -1,0 +1,17 @@
+[t4]
+FileName1=t4.html
+URL1=http://localhost:8081/SAD/
+Total=4
+RequestHeaderFile=t4_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t4_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_4.xml
+FileName2=t4_style.css
+URL2=http://localhost:8081/SAD/style.css
+FileName3=t4_script.html
+URL3=http://localhost:8081/SAD/script.js
+FileName4=t4_favicon.ico
+URL4=http://localhost:8081/favicon.ico
+[ProtocolInfo]
+ProtocolId=QTWeb

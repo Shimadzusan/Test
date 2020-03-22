@@ -1,0 +1,173 @@
+[API Trapper      (1fd4:1d58)] Recording in 32-bit mode: C:\Program Files (x86)\Internet Explorer\iexplore.exe
+[API Trapper      ( 954: b1c)] Recording in 64-bit mode: C:\Program Files\Internet Explorer\IEXPLORE.EXE
+[API Trapper      (1410:1ab0)] Recording in 32-bit mode: C:\Program Files (x86)\Internet Explorer\IEXPLORE.EXE
+[Network Analyzer (1410:1d64)] ------------------------------------------------------------------------------------------
+[Network Analyzer (1410:1d64)] Load Network Traffic Analyzers:
+[Network Analyzer (1410:1d64)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (1410:1d64)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter.dll)
+[Network Analyzer (1410:1d64)]     + Network Analyzer: api_http_filter.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (1410:1d64)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter.dll
+[Network Analyzer (1410:1d64)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer.dll)
+[Network Analyzer (1410:1d64)]     + Network Analyzer: WebSocketAnalyzer.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (1410:1d64)]     Analyzer Module: local_server (value=)
+[Network Analyzer (1410:1d64)] ------------------------------------------------------------------------------------------
+[Network Analyzer (1410:2414)] Address lookup for DESKTOP-CQO7JVA = 192.168.0.102
+[Network Analyzer (1410:1d64)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 8081  (Service=)  (Sid=  1)  PROXIED!
+[Web Request      (1410:2998)] "GET /SAD/"   
+[Network Analyzer (1410:2998)]   (Sid:  1) Client -> Server @ : 265 bytes (Service=HTTP)
+[Network Analyzer (1410:1d64)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 8081  (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (1410:2998)]   (Sid:  1) Server -> Client : 6803 bytes  (Service=HTTP)
+[Web Request      (1410:2998)] "GET /SAD/style.css"   
+[Network Analyzer (1410:2998)]   (Sid:  1) Client -> Server @ : 276 bytes (Service=HTTP)
+[Web Request      (1410:2998)] "GET /SAD/script.js"   
+[Network Analyzer (1410:2998)]   (Sid:  2) Client -> Server @ : 296 bytes (Service=HTTP)
+[Network Analyzer (1410:2998)]   (Sid:  1) Server -> Client : 613 bytes  (Service=HTTP)
+[Network Analyzer (1410:2998)]   (Sid:  2) Server -> Client : 11796 bytes  (Service=HTTP)
+[Web Request      (1410:2998)] "GET /favicon.ico"   
+[Network Analyzer (1410:2998)]   (Sid:  2) Client -> Server @ : 203 bytes (Service=HTTP)
+[Network Analyzer (1410:2998)]   (Sid:  2) Server -> Client : 8192 bytes  (Service=HTTP)
+[Network Analyzer (1410:2998)]   (Sid:  2) Server -> Client : 8192 bytes  (Service=HTTP)
+[Network Analyzer (1410:2998)]   (Sid:  2) Server -> Client : 5498 bytes  (Service=HTTP)
+[Network Analyzer (1410:2998)]   (Sid:  1) Connection Terminated (by Server)
+[Network Analyzer (1410:2998)]   (Sid:  2) Connection Terminated (by Server)
+[Network Analyzer ( 954:35b4)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( 954:35b4)] Load Network Traffic Analyzers:
+[Network Analyzer ( 954:35b4)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer ( 954:35b4)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer ( 954:35b4)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer ( 954:35b4)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer ( 954:35b4)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer ( 954:35b4)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer ( 954:35b4)]     Analyzer Module: local_server (value=)
+[Network Analyzer ( 954:35b4)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( 954:2920)] Address lookup for DESKTOP-CQO7JVA = 192.168.0.102
+[Network Analyzer ( 954:35b4)] Address lookup for DESKTOP-CQO7JVA = 192.168.0.102
+[Network Analyzer (1410:3498)] Address lookup for DESKTOP-CQO7JVA = 192.168.0.102
+[Network Analyzer ( 954:35b4)] Request Connection: Remote Server @ 152.199.19.161:443   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (1410:3498)] Request Connection: Remote Server @ 152.199.19.161:443   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer ( 954:2ff4)]   (Sid:  1) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer (1410:1bac)]   (Sid:  3) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer ( 954:2f7c)] Address lookup for DESKTOP-CQO7JVA = 192.168.0.102
+[Network Analyzer ( 954:2f7c)] Request Connection: Remote Server @ 104.18.24.243:80   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (1410:2980)] Address lookup for DESKTOP-CQO7JVA = 192.168.0.102
+[Network Analyzer (1410:2980)] Request Connection: Remote Server @ 104.18.24.243:80   (Service=)  (Sid=  4)  PROXIED!
+[Web Request      ( 954:2920)] "GET /MFQwUjBQME4wTDAJBgUrDgMCGgUABBQY%2BIWplxzce%2B%2BGCW0BmDyo%2BZ8lVgQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCExwAFF8jA2u85i8%2FLFYAAAAUXyM%3D"   
+[Network Analyzer ( 954:2920)]   (Sid:  2) Client -> Server @ : 248 bytes (Service=HTTP)
+[Network Analyzer ( 954:2920)]   (Sid:  2) Server -> Client : 500 bytes  (Service=HTTP)
+[Web Request      ( 954:2920)] "GET /MFQwUjBQME4wTDAJBgUrDgMCGgUABBQY%2BIWplxzce%2B%2BGCW0BmDyo%2BZ8lVgQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCExwAFF8jA2u85i8%2FLFYAAAAUXyM%3D"   
+[Network Analyzer ( 954:2920)]   (Sid:  2) Client -> Server @ : 291 bytes (Service=HTTP)
+[Network Analyzer ( 954:2920)]   (Sid:  2) Server -> Client : 500 bytes  (Service=HTTP)
+[Web Request      (1410:2414)] "GET /MFQwUjBQME4wTDAJBgUrDgMCGgUABBQY%2BIWplxzce%2B%2BGCW0BmDyo%2BZ8lVgQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCExwAFF8jA2u85i8%2FLFYAAAAUXyM%3D"   
+[Network Analyzer (1410:2414)]   (Sid:  4) Client -> Server @ : 248 bytes (Service=HTTP)
+[Network Analyzer (1410:2414)]   (Sid:  4) Server -> Client : 500 bytes  (Service=HTTP)
+[Web Request      (1410:2414)] "GET /MFQwUjBQME4wTDAJBgUrDgMCGgUABBQY%2BIWplxzce%2B%2BGCW0BmDyo%2BZ8lVgQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCExwAFF8jA2u85i8%2FLFYAAAAUXyM%3D"   
+[Network Analyzer (1410:2414)]   (Sid:  4) Client -> Server @ : 291 bytes (Service=HTTP)
+[Network Analyzer (1410:2414)]   (Sid:  4) Server -> Client : 500 bytes  (Service=HTTP)
+[Network Analyzer ( 954: 7a4)] Address lookup for DESKTOP-CQO7JVA = 192.168.0.102
+[Network Analyzer ( 954: 7a4)] Request Connection: Remote Server @ 152.199.19.160:80   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (1410:3738)] Address lookup for DESKTOP-CQO7JVA = 192.168.0.102
+[Network Analyzer (1410:3738)] Request Connection: Remote Server @ 152.199.19.160:80   (Service=)  (Sid=  5)  PROXIED!
+[Web Request      ( 954:2920)] "GET /pki/mscorp/crl/Microsoft%20IT%20TLS%20CA%202.crl"   
+[Network Analyzer ( 954:2920)]   (Sid:  3) Client -> Server @ : 168 bytes (Service=HTTP)
+[Network Analyzer ( 954:2920)]   (Sid:  3) Server -> Client : 1420 bytes  (Service=HTTP)
+[Network Analyzer ( 954:2920)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( 954:2920)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( 954:2920)]   (Sid:  3) Server -> Client : 5271 bytes  (Service=HTTP)
+[Network Analyzer ( 954:2920)]   (Sid:  3) Server -> Client : 2840 bytes  (Service=HTTP)
+[Web Request      (1410:2414)] "GET /pki/mscorp/crl/Microsoft%20IT%20TLS%20CA%202.crl"   
+[Network Analyzer (1410:2414)]   (Sid:  5) Client -> Server @ : 168 bytes (Service=HTTP)
+[Network Analyzer ( 954:2920)]   (Sid:  3) Server -> Client : 1420 bytes  (Service=HTTP)
+[Network Analyzer ( 954:2920)]   (Sid:  3) Server -> Client : 4260 bytes  (Service=HTTP)
+[Network Analyzer ( 954:2920)]   (Sid:  3) Server -> Client : 4200 bytes  (Service=HTTP)
+[Web Request      ( 954:2920)] "GET /pki/mscorp/crl/Microsoft%20IT%20TLS%20CA%202.crl"   
+[Network Analyzer ( 954:2920)]   (Sid:  3) Client -> Server @ : 211 bytes (Service=HTTP)
+[Network Analyzer (1410:2414)]   (Sid:  5) Server -> Client : 1420 bytes  (Service=HTTP)
+[Network Analyzer (1410:2414)]   (Sid:  5) Server -> Client : 7100 bytes  (Service=HTTP)
+[Network Analyzer (1410:2414)]   (Sid:  5) Server -> Client : 2840 bytes  (Service=HTTP)
+[Network Analyzer (1410:2414)]   (Sid:  5) Server -> Client : 1420 bytes  (Service=HTTP)
+[Network Analyzer (1410:2414)]   (Sid:  5) Server -> Client : 4260 bytes  (Service=HTTP)
+[Network Analyzer (1410:2414)]   (Sid:  5) Server -> Client : 2840 bytes  (Service=HTTP)
+[Network Analyzer (1410:2414)]   (Sid:  5) Server -> Client : 5680 bytes  (Service=HTTP)
+[Network Analyzer (1410:2414)]   (Sid:  5) Server -> Client : 2840 bytes  (Service=HTTP)
+[Network Analyzer (1410:2414)]   (Sid:  5) Server -> Client : 11360 bytes  (Service=HTTP)
+[Network Analyzer (1410:2414)]   (Sid:  5) Server -> Client : 2840 bytes  (Service=HTTP)
+[Network Analyzer ( 954:2920)]   (Sid:  3) Server -> Client : 1420 bytes  (Service=HTTP)
+[Network Analyzer ( 954:2920)]   (Sid:  3) Server -> Client : 11360 bytes  (Service=HTTP)
+[Network Analyzer ( 954:2920)]   (Sid:  3) Server -> Client : 8520 bytes  (Service=HTTP)
+[Network Analyzer ( 954:2920)]   (Sid:  3) Server -> Client : 9940 bytes  (Service=HTTP)
+[Network Analyzer ( 954:2920)]   (Sid:  3) Server -> Client : 5680 bytes  (Service=HTTP)
+[Network Analyzer ( 954:2920)]   (Sid:  3) Server -> Client : 9940 bytes  (Service=HTTP)
+[Network Analyzer ( 954:2920)]   (Sid:  3) Server -> Client : 5319 bytes  (Service=HTTP)
+[Network Analyzer (1410:2414)]   (Sid:  5) Server -> Client : 1420 bytes  (Service=HTTP)
+[Network Analyzer (1410:2414)]   (Sid:  5) Server -> Client : 5680 bytes  (Service=HTTP)
+[Network Analyzer (1410:2414)]   (Sid:  5) Server -> Client : 2479 bytes  (Service=HTTP)
+[Web Request      (1410:2414)] "GET /pki/mscorp/crl/Microsoft%20IT%20TLS%20CA%202.crl"   
+[Network Analyzer (1410:2414)]   (Sid:  5) Client -> Server @ : 211 bytes (Service=HTTP)
+[Network Analyzer (1410:2414)]   (Sid:  5) Server -> Client : 1420 bytes  (Service=HTTP)
+[Network Analyzer (1410:2414)]   (Sid:  5) Server -> Client : 7100 bytes  (Service=HTTP)
+[Network Analyzer (1410:2414)]   (Sid:  5) Server -> Client : 8520 bytes  (Service=HTTP)
+[Network Analyzer (1410:2414)]   (Sid:  5) Server -> Client : 14200 bytes  (Service=HTTP)
+[Network Analyzer (1410:2414)]   (Sid:  5) Server -> Client : 9940 bytes  (Service=HTTP)
+[Network Analyzer (1410:2414)]   (Sid:  5) Server -> Client : 9940 bytes  (Service=HTTP)
+[Network Analyzer (1410:2414)]   (Sid:  5) Server -> Client : 1059 bytes  (Service=HTTP)
+[Net An. Error    ( 954:2ff4)] SSLAccept(ssl_id = 1759692012768 = 00000199B5D13CE0) Failed, ctx = 00000199B51CA530, err = "SSLv3 read client key exchange A", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    ( 954:2ff4)]   (Sid:  1) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( 954:2920)]   (Sid:  1) Connection Terminated (by Client)
+[Net An. Error    (1410:1bac)] SSLAccept(ssl_id = 297361136 = 11B95EF0) Failed, ctx = 11B92EE8, err = "SSLv3 read client key exchange A", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (1410:1bac)]   (Sid:  3) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (1410:2414)]   (Sid:  3) Connection Terminated (by Client)
+[Network Analyzer ( 954: 7a4)] Address lookup for DESKTOP-CQO7JVA = 192.168.0.102
+[Network Analyzer ( 954: 7a4)] Request Connection: Remote Server @ 212.188.39.234:80   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (1410:34f0)] Address lookup for DESKTOP-CQO7JVA = 192.168.0.102
+[Network Analyzer (1410:34f0)] Request Connection: Remote Server @ 212.188.39.234:80   (Service=)  (Sid=  6)  PROXIED!
+[Web Request      ( 954:2920)] "GET /pki/mscorp/crl/Microsoft%20IT%20TLS%20CA%202.crl"   
+[Network Analyzer ( 954:2920)]   (Sid:  4) Client -> Server @ : 166 bytes (Service=HTTP)
+[Network Analyzer ( 954:2920)]   (Sid:  4) Server -> Client : 1420 bytes  (Service=HTTP)
+[Network Analyzer ( 954:2920)]   (Sid:  4) Server -> Client : 4260 bytes  (Service=HTTP)
+[Network Analyzer ( 954:2920)]   (Sid:  4) Server -> Client : 1420 bytes  (Service=HTTP)
+[Network Analyzer ( 954:2920)]   (Sid:  4) Server -> Client : 5680 bytes  (Service=HTTP)
+[Network Analyzer ( 954:2920)]   (Sid:  4) Server -> Client : 1420 bytes  (Service=HTTP)
+[Network Analyzer ( 954:2920)]   (Sid:  4) Server -> Client : 1420 bytes  (Service=HTTP)
+[Network Analyzer ( 954:2920)]   (Sid:  4) Server -> Client : 5680 bytes  (Service=HTTP)
+[Network Analyzer ( 954:2920)]   (Sid:  4) Server -> Client : 11360 bytes  (Service=HTTP)
+[Network Analyzer ( 954:2920)]   (Sid:  4) Server -> Client : 12780 bytes  (Service=HTTP)
+[Network Analyzer ( 954:2920)]   (Sid:  4) Server -> Client : 2840 bytes  (Service=HTTP)
+[Network Analyzer ( 954:2920)]   (Sid:  4) Server -> Client : 2840 bytes  (Service=HTTP)
+[Network Analyzer ( 954:2920)]   (Sid:  4) Server -> Client : 1064 bytes  (Service=HTTP)
+[Web Request      (1410:2414)] "GET /pki/mscorp/crl/Microsoft%20IT%20TLS%20CA%202.crl"   
+[Network Analyzer (1410:2414)]   (Sid:  6) Client -> Server @ : 166 bytes (Service=HTTP)
+[Network Analyzer (1410:2414)]   (Sid:  6) Server -> Client : 1420 bytes  (Service=HTTP)
+[Network Analyzer (1410:2414)]   (Sid:  6) Server -> Client : 8520 bytes  (Service=HTTP)
+[Network Analyzer (1410:2414)]   (Sid:  6) Server -> Client : 8520 bytes  (Service=HTTP)
+[Network Analyzer (1410:2414)]   (Sid:  6) Server -> Client : 4260 bytes  (Service=HTTP)
+[Network Analyzer (1410:2414)]   (Sid:  6) Server -> Client : 1420 bytes  (Service=HTTP)
+[Network Analyzer (1410:2414)]   (Sid:  6) Server -> Client : 7100 bytes  (Service=HTTP)
+[Network Analyzer (1410:2414)]   (Sid:  6) Server -> Client : 5680 bytes  (Service=HTTP)
+[Network Analyzer (1410:2414)]   (Sid:  6) Server -> Client : 8520 bytes  (Service=HTTP)
+[Network Analyzer (1410:2414)]   (Sid:  6) Server -> Client : 2840 bytes  (Service=HTTP)
+[Network Analyzer (1410:2414)]   (Sid:  6) Server -> Client : 1420 bytes  (Service=HTTP)
+[Network Analyzer (1410:2414)]   (Sid:  6) Server -> Client : 2484 bytes  (Service=HTTP)
+[Network Analyzer (1410:34f0)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 8081  (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (1410:2998)]   (Sid:  7) Client -> Server @ : 369 bytes (Service=HTTP)
+[Web Request      (1410:2998)] "POST /SAD/ServletReportMode"   
+[Network Analyzer (1410:2998)]   (Sid:  7) Client -> Server @ : 71 bytes (Service=HTTP)
+[Network Analyzer (1410:1d64)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 8081  (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (1410:2998)]   (Sid:  8) Client -> Server @ : 374 bytes (Service=HTTP)
+[Web Request      (1410:2998)] "POST /SAD/ServletClassicalReport"   
+[Network Analyzer (1410:2998)]   (Sid:  8) Client -> Server @ : 26 bytes (Service=HTTP)
+[Network Analyzer (1410:2998)]   (Sid:  7) Server -> Client : 160 bytes  (Service=HTTP)
+[Network Analyzer (1410:2998)]   (Sid:  8) Server -> Client : 2581 bytes  (Service=HTTP)
+[Network Analyzer (1410:2998)]   (Sid:  7) Connection Terminated (by Server)
+[Network Analyzer (1410:2998)]   (Sid:  8) Connection Terminated (by Server)
+[Network Analyzer (1410:34f0)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 8081  (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer (1410:2998)]   (Sid:  9) Client -> Server @ : 374 bytes (Service=HTTP)
+[Web Request      (1410:2998)] "POST /SAD/ServletClassicalReport"   
+[Network Analyzer (1410:2998)]   (Sid:  9) Client -> Server @ : 26 bytes (Service=HTTP)
+[Network Analyzer (1410:1d64)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 8081  (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer (1410:2998)]   (Sid: 10) Client -> Server @ : 369 bytes (Service=HTTP)
+[Web Request      (1410:2998)] "POST /SAD/ServletReportMode"   
+[Network Analyzer (1410:2998)]   (Sid: 10) Client -> Server @ : 71 bytes (Service=HTTP)
+[Network Analyzer (1410:2998)]   (Sid: 10) Server -> Client : 160 bytes  (Service=HTTP)
+[Network Analyzer (1410:2998)]   (Sid:  9) Server -> Client : 1853 bytes  (Service=HTTP)
