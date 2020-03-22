@@ -2580,8 +2580,10 @@ void
 
 
 
+
  
  
+
 
 
 
@@ -2595,8 +2597,8 @@ vuser_init()
 }
 # 4 "c:\\users\\amd win\\documents\\vugen\\scripts\\testsad\\\\combined_TestSAD.c" 2
 
-# 1 "allpha.c" 1
-allpha()
+# 1 "alpha.c" 1
+alpha()
 {
 	 
 	
@@ -2655,7 +2657,7 @@ allpha()
 		"Referer=http://localhost:8081/SAD/", 
 		"Snapshot=t4.inf", 
 		"Mode=HTML", 
-		"Body=facture=28.03.2020\nкасса утро 5000\nфнд 250\nкопия 100 сбер\nпечать 200\nрамка 150\nфнд 250\nбагет 1900 сбер\nпечать 200\nрамка 150",	 
+		"Body=facture=29.03.2020\nкасса утро 5000\nфнд 250\nкопия 100 сбер\nпечать 200\nрамка 150\nфнд 250\nбагет 1900 сбер\nпечать 200\nрамка 150",	 
 		"LAST");
 
 	return 0;
@@ -2733,10 +2735,184 @@ betta()
 }
 # 6 "c:\\users\\amd win\\documents\\vugen\\scripts\\testsad\\\\combined_TestSAD.c" 2
 
+# 1 "hamma.c" 1
+hamma()
+{
+
+	web_url("SAD", 
+		"URL=http://localhost:8081/SAD/", 
+		"Resource=0", 
+		"RecContentType=text/html", 
+		"Referer=", 
+		"Snapshot=t9.inf", 
+		"Mode=HTML", 
+		"EXTRARES", 
+		"Url=../favicon.ico", "Referer=", "ENDITEM", 
+		"LAST");
+
+	 
+	 
+ 
+	lr_start_transaction("операция1:_only_one_item");
+
+	lr_think_time(21);
+
+	web_custom_request("ServletReportMode", 
+		"URL=http://localhost:8081/SAD/ServletReportMode", 
+		"Method=POST", 
+		"Resource=0", 
+		"RecContentType=text/html", 
+		"Referer=http://localhost:8081/SAD/", 
+		"Snapshot=t10.inf", 
+		"Mode=HTML", 
+		"Body=date_one=02.03.2020&date_two=10.03.2020&type_of_report=only one item", 
+		"LAST");	 
+
+	 
+
+	lr_think_time(23);	 
+
+	web_reg_save_param_ex(	 
+		"ParamName=newParam", 
+	    "LB/IC=02",
+	    "RB/IC=2020",
+ 
+ 
+ 
+	    "SEARCH_FILTERS",
+	        "Scope=body",
+		"LAST");
+	
+	web_custom_request("ServletOneItem", 
+		"URL=http://localhost:8081/SAD/ServletOneItem", 
+		"Method=POST", 
+		"Resource=0", 
+		"RecContentType=text/html", 
+		"Referer=http://localhost:8081/SAD/", 
+		"Snapshot=t11.inf", 
+		"Mode=HTML", 
+		"Body=date_x={\"itm\":\"ником сервис\",\"con\":\"days\",\"cas\":true,\"onl\":true,\"exp\":true,\"tot\":true}", 
+		"LAST");
+
+	lr_output_message("here we displays some value from response:");
+	lr_output_message(lr_eval_string("{newParam}"));
+
+ 
+	lr_end_transaction("операция1:_only_one_item", 2);
+
+	 
+
+	lr_start_transaction("операция2:_only_one_item");
+	lr_think_time(30);
+
+	web_custom_request("ServletOneItem_2", 
+		"URL=http://localhost:8081/SAD/ServletOneItem", 
+		"Method=POST", 
+		"Resource=0", 
+		"RecContentType=text/html", 
+		"Referer=http://localhost:8081/SAD/", 
+		"Snapshot=t12.inf", 
+		"Mode=HTML", 
+		"Body=date_x={\"itm\":\"пульты\",\"con\":\"days\",\"cas\":true,\"onl\":true,\"exp\":true,\"tot\":true}", 
+		"LAST");
+
+	 
+
+	lr_think_time(16);
+
+	web_custom_request("ServletReportMode_2", 
+		"URL=http://localhost:8081/SAD/ServletReportMode", 
+		"Method=POST", 
+		"Resource=0", 
+		"RecContentType=text/html", 
+		"Referer=http://localhost:8081/SAD/", 
+		"Snapshot=t13.inf", 
+		"Mode=HTML", 
+		"Body=date_one=02.03.2020&date_two=10.03.2020&type_of_report=online payment report", 
+		"LAST");
+
+	lr_think_time(6);
+
+	web_custom_request("ServletOnlineIncome", 
+		"URL=http://localhost:8081/SAD/ServletOnlineIncome", 
+		"Method=POST", 
+		"Resource=0", 
+		"RecContentType=text/html", 
+		"Referer=http://localhost:8081/SAD/", 
+		"Snapshot=t14.inf", 
+		"Mode=HTML", 
+		"Body=data_s={\"con\":\"days\",\"sber\":true,\"tinkoff\":true,\"pochta_bank\":true,\"total\":true}", 
+		"LAST");
+	lr_end_transaction("операция2:_only_one_item", 2);
+
+	return 0;
+}
+# 7 "c:\\users\\amd win\\documents\\vugen\\scripts\\testsad\\\\combined_TestSAD.c" 2
+
+# 1 "one_item_report.c" 1
+one_item_report()
+{
+	web_url("SAD", 
+		"URL=http://localhost:8081/SAD/", 
+		"Resource=0", 
+		"RecContentType=text/html", 
+		"Referer=", 
+		"Snapshot=t15.inf", 
+		"Mode=HTML", 
+		"EXTRARES", 
+		"Url=../favicon.ico", "Referer=", "ENDITEM", 
+		"LAST");
+
+	 
+	 
+ 
+
+	lr_think_time(21);
+
+	web_custom_request("ServletReportMode", 
+		"URL=http://localhost:8081/SAD/ServletReportMode", 
+		"Method=POST", 
+		"Resource=0", 
+		"RecContentType=text/html", 
+		"Referer=http://localhost:8081/SAD/", 
+		"Snapshot=t16.inf", 
+		"Mode=HTML", 
+		"Body=date_one=02.03.2020&date_two=10.03.2020&type_of_report=only one item", 
+		"LAST");
+
+	 
+
+	lr_think_time(23);	 
+
+	web_custom_request("ServletOneItem", 
+		"URL=http://localhost:8081/SAD/ServletOneItem", 
+		"Method=POST", 
+		"Resource=0", 
+		"RecContentType=text/html", 
+		"Referer=http://localhost:8081/SAD/", 
+		"Snapshot=t17.inf", 
+		"Mode=HTML", 
+		"Body=date_x={\"itm\":\"ником сервис\",\"con\":\"days\",\"cas\":true,\"onl\":true,\"exp\":true,\"tot\":true}", 
+		"LAST");
+	
+ 
+	 
+	return 0;
+}
+# 8 "c:\\users\\amd win\\documents\\vugen\\scripts\\testsad\\\\combined_TestSAD.c" 2
+
+# 1 "online_payment_report.c" 1
+online_payment_report()
+{
+	lr_output_message("i am unit from online_payment_report");
+	return 0;
+}
+# 9 "c:\\users\\amd win\\documents\\vugen\\scripts\\testsad\\\\combined_TestSAD.c" 2
+
 # 1 "vuser_end.c" 1
 vuser_end()
 {
 	return 0;
 }
-# 7 "c:\\users\\amd win\\documents\\vugen\\scripts\\testsad\\\\combined_TestSAD.c" 2
+# 10 "c:\\users\\amd win\\documents\\vugen\\scripts\\testsad\\\\combined_TestSAD.c" 2
 

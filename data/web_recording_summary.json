@@ -41,14 +41,14 @@
   ],
   "GeneralInfo": {
     "BrowserVersion": "",
-    "MaxUsedConnections": 6,
+    "MaxUsedConnections": 5,
     "RecordedBrowser": "Internet Explorer",
     "RecordingDate": "���-21-2020",
-    "RecordingDuration": 125343,
+    "RecordingDuration": 154750,
     "RecordingTimeStamp": 1584797535,
-    "TotalBytesReceived": 44197,
-    "TotalBytesSent": 2720,
-    "TotalRequests": 8
+    "TotalBytesReceived": 45479,
+    "TotalBytesSent": 3288,
+    "TotalRequests": 9
   },
   "HostInfo": [
     {
@@ -64,17 +64,17 @@
             {
               "CompressionType": "",
               "DataType": "text/html",
-              "DownloadTime": 2015,
-              "EventId": 257,
+              "DownloadTime": 32,
+              "EventId": 401,
               "HttpStatus": 200,
-              "Size": 1690,
-              "URL": "http://localhost:8081/SAD/ServletClassicalReport"
+              "Size": 1939,
+              "URL": "http://localhost:8081/SAD/ServletOnlineIncome"
             },
             {
               "CompressionType": "",
               "DataType": "text/html",
-              "DownloadTime": 16,
-              "EventId": 255,
+              "DownloadTime": 32,
+              "EventId": 393,
               "HttpStatus": 200,
               "Size": 0,
               "URL": "http://localhost:8081/SAD/ServletReportMode"
@@ -82,17 +82,26 @@
             {
               "CompressionType": "",
               "DataType": "text/html",
-              "DownloadTime": 2015,
-              "EventId": 249,
+              "DownloadTime": 15,
+              "EventId": 390,
               "HttpStatus": 200,
-              "Size": 2418,
-              "URL": "http://localhost:8081/SAD/ServletClassicalReport"
+              "Size": 1653,
+              "URL": "http://localhost:8081/SAD/ServletOneItem"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 47,
+              "EventId": 384,
+              "HttpStatus": 200,
+              "Size": 1798,
+              "URL": "http://localhost:8081/SAD/ServletOneItem"
             },
             {
               "CompressionType": "",
               "DataType": "text/html",
               "DownloadTime": 16,
-              "EventId": 247,
+              "EventId": 378,
               "HttpStatus": 200,
               "Size": 0,
               "URL": "http://localhost:8081/SAD/ServletReportMode"
@@ -100,8 +109,8 @@
             {
               "CompressionType": "",
               "DataType": "image/x-icon",
-              "DownloadTime": 16,
-              "EventId": 146,
+              "DownloadTime": 0,
+              "EventId": 276,
               "HttpStatus": 200,
               "Size": 21630,
               "URL": "http://localhost:8081/favicon.ico"
@@ -109,8 +118,8 @@
             {
               "CompressionType": "",
               "DataType": "application/javascript",
-              "DownloadTime": 32,
-              "EventId": 144,
+              "DownloadTime": 16,
+              "EventId": 274,
               "HttpStatus": 200,
               "Size": 11534,
               "URL": "http://localhost:8081/SAD/script.js"
@@ -119,7 +128,7 @@
               "CompressionType": "",
               "DataType": "text/css",
               "DownloadTime": 16,
-              "EventId": 142,
+              "EventId": 272,
               "HttpStatus": 200,
               "Size": 369,
               "URL": "http://localhost:8081/SAD/style.css"
@@ -127,8 +136,8 @@
             {
               "CompressionType": "",
               "DataType": "text/html",
-              "DownloadTime": 15,
-              "EventId": 140,
+              "DownloadTime": 0,
+              "EventId": 270,
               "HttpStatus": 200,
               "Size": 6556,
               "URL": "http://localhost:8081/SAD/"

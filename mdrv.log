@@ -1,6 +1,6 @@
 Warning: Failed to post to 'http://127.0.0.1:8182/shunra/api/emulation/packetCaptureOnly', retcode=7.
 Warning: Failed to start NV emulation. Perhaps the NV server is not working, and therefore a NV report will not be generated.
-Virtual User Script started at: 21.03.2020 18:16:43
+Virtual User Script started at: 22.03.2020 14:13:52
 Starting action vuser_init.
 Web Turbo Replay of LoadRunner 12.55.0 for Windows 10; build 911 (июл 24 2017 19:46:00)  	[MsgId: MMSG-26983]
 Run mode: HTML  	[MsgId: MMSG-26993]
@@ -12,20 +12,20 @@ Ending action vuser_init.
 Running Vuser...
 Starting iteration 1.
 Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
-Starting action allpha.
+Starting action alpha.
 Warning: Failed to get NV emulation handle.
-allpha.c(5): web_url("SAD") started  	[MsgId: MMSG-26355]
-allpha.c(5): Found resource "http://localhost:8081/SAD/style.css" in HTML "http://localhost:8081/SAD/"  	[MsgId: MMSG-26659]
-allpha.c(5): Found resource "http://localhost:8081/SAD/script.js" in HTML "http://localhost:8081/SAD/"  	[MsgId: MMSG-26659]
-allpha.c(5): Downloading resource "http://localhost:8081/favicon.ico" (specified by argument number 9)  	[MsgId: MMSG-26577]
-allpha.c(5): web_url("SAD") was successful, 40089 body bytes, 1005 header bytes  	[MsgId: MMSG-26386]
-allpha.c(20): web_custom_request("ServletStandartMode") started  	[MsgId: MMSG-26355]
-allpha.c(20): web_custom_request("ServletStandartMode") was successful, 249 body bytes, 162 header bytes  	[MsgId: MMSG-26386]
-allpha.c(37): web_custom_request("ServletStandartMode_2") started  	[MsgId: MMSG-26355]
-allpha.c(37): web_custom_request("ServletStandartMode_2") was successful, 253 body bytes, 162 header bytes  	[MsgId: MMSG-26386]
-allpha.c(52): web_custom_request("ServletStandartMode_2") started  	[MsgId: MMSG-26355]
-allpha.c(52): web_custom_request("ServletStandartMode_2") was successful, 258 body bytes, 162 header bytes  	[MsgId: MMSG-26386]
-Ending action allpha.
+alpha.c(5): web_url("SAD") started  	[MsgId: MMSG-26355]
+alpha.c(5): Found resource "http://localhost:8081/SAD/style.css" in HTML "http://localhost:8081/SAD/"  	[MsgId: MMSG-26659]
+alpha.c(5): Found resource "http://localhost:8081/SAD/script.js" in HTML "http://localhost:8081/SAD/"  	[MsgId: MMSG-26659]
+alpha.c(5): Downloading resource "http://localhost:8081/favicon.ico" (specified by argument number 9)  	[MsgId: MMSG-26577]
+alpha.c(5): web_url("SAD") was successful, 40089 body bytes, 1005 header bytes  	[MsgId: MMSG-26386]
+alpha.c(20): web_custom_request("ServletStandartMode") started  	[MsgId: MMSG-26355]
+alpha.c(20): web_custom_request("ServletStandartMode") was successful, 249 body bytes, 162 header bytes  	[MsgId: MMSG-26386]
+alpha.c(37): web_custom_request("ServletStandartMode_2") started  	[MsgId: MMSG-26355]
+alpha.c(37): web_custom_request("ServletStandartMode_2") was successful, 253 body bytes, 162 header bytes  	[MsgId: MMSG-26386]
+alpha.c(52): web_custom_request("ServletStandartMode_2") started  	[MsgId: MMSG-26355]
+alpha.c(52): web_custom_request("ServletStandartMode_2") was successful, 258 body bytes, 162 header bytes  	[MsgId: MMSG-26386]
+Ending action alpha.
 Starting action betta.
 Warning: Failed to get NV emulation handle.
 betta.c(4): web_url("SAD") started  	[MsgId: MMSG-26355]
@@ -43,6 +43,52 @@ betta.c(45): web_custom_request("ServletReportMode_2") was successful, 0 body by
 betta.c(56): web_submit_data("ServletClassicalReport_2") started  	[MsgId: MMSG-26355]
 betta.c(56): web_submit_data("ServletClassicalReport_2") was successful, 1203 body bytes, 163 header bytes  	[MsgId: MMSG-26386]
 Ending action betta.
+Starting action hamma.
+Warning: Failed to get NV emulation handle.
+hamma.c(4): web_url("SAD") started  	[MsgId: MMSG-26355]
+hamma.c(4): Retrieving data from cache for "http://localhost:8081/SAD/"  	[MsgId: MMSG-26558]
+hamma.c(4): Resource "http://localhost:8081/SAD/style.css" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+hamma.c(4): Resource "http://localhost:8081/SAD/script.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+hamma.c(4): Resource "http://localhost:8081/favicon.ico" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+hamma.c(4): web_url("SAD") was successful, 0 body bytes, 0 header bytes  	[MsgId: MMSG-26386]
+hamma.c(18): Notify: Transaction "операция1:_only_one_item" started.
+hamma.c(18): Warning: Failed to get NV emulation handle.
+hamma.c(22): web_custom_request("ServletReportMode") started  	[MsgId: MMSG-26355]
+hamma.c(22): web_custom_request("ServletReportMode") was successful, 0 body bytes, 160 header bytes  	[MsgId: MMSG-26386]
+hamma.c(37): web_reg_save_param_ex started  	[MsgId: MMSG-26355]
+hamma.c(37): Registering web_reg_save_param_ex was successful  	[MsgId: MMSG-26390]
+hamma.c(48): web_custom_request("ServletOneItem") started  	[MsgId: MMSG-26355]
+hamma.c(48): web_custom_request("ServletOneItem") was successful, 1798 body bytes, 163 header bytes  	[MsgId: MMSG-26386]
+hamma.c(59): here we displays some value from response:
+hamma.c(60): .03.
+hamma.c(63): Notify: Transaction "операция1:_only_one_item" ended with a "Pass" status (Duration: 0,1667 Wasted Time: 0,0788).
+hamma.c(67): Notify: Transaction "операция2:_only_one_item" started.
+hamma.c(67): Warning: Failed to get NV emulation handle.
+hamma.c(70): web_custom_request("ServletOneItem_2") started  	[MsgId: MMSG-26355]
+hamma.c(70): web_custom_request("ServletOneItem_2") was successful, 1653 body bytes, 163 header bytes  	[MsgId: MMSG-26386]
+hamma.c(85): web_custom_request("ServletReportMode_2") started  	[MsgId: MMSG-26355]
+hamma.c(85): web_custom_request("ServletReportMode_2") was successful, 0 body bytes, 160 header bytes  	[MsgId: MMSG-26386]
+hamma.c(98): web_custom_request("ServletOnlineIncome") started  	[MsgId: MMSG-26355]
+hamma.c(98): web_custom_request("ServletOnlineIncome") was successful, 1939 body bytes, 163 header bytes  	[MsgId: MMSG-26386]
+hamma.c(108): Notify: Transaction "операция2:_only_one_item" ended with a "Pass" status (Duration: 0.3330 Wasted Time: 0.1751).
+Ending action hamma.
+Starting action one_item_report.
+Warning: Failed to get NV emulation handle.
+one_item_report.c(3): web_url("SAD") started  	[MsgId: MMSG-26355]
+one_item_report.c(3): Retrieving data from cache for "http://localhost:8081/SAD/"  	[MsgId: MMSG-26558]
+one_item_report.c(3): Resource "http://localhost:8081/SAD/style.css" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+one_item_report.c(3): Resource "http://localhost:8081/SAD/script.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+one_item_report.c(3): Resource "http://localhost:8081/favicon.ico" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+one_item_report.c(3): web_url("SAD") was successful, 0 body bytes, 0 header bytes  	[MsgId: MMSG-26386]
+one_item_report.c(20): web_custom_request("ServletReportMode") started  	[MsgId: MMSG-26355]
+one_item_report.c(20): web_custom_request("ServletReportMode") was successful, 0 body bytes, 160 header bytes  	[MsgId: MMSG-26386]
+one_item_report.c(35): web_custom_request("ServletOneItem") started  	[MsgId: MMSG-26355]
+one_item_report.c(35): web_custom_request("ServletOneItem") was successful, 1798 body bytes, 163 header bytes  	[MsgId: MMSG-26386]
+Ending action one_item_report.
+Starting action online_payment_report.
+Warning: Failed to get NV emulation handle.
+online_payment_report.c(3): i am unit from online_payment_report
+Ending action online_payment_report.
 Ending iteration 1.
 Ending Vuser...
 Starting action vuser_end.

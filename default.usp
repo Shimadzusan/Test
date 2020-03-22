@@ -1,7 +1,7 @@
 [Profile Actions]
 MercIniTreeFather=""
 MercIniTreeSectionName="Profile Actions"
-Profile Actions name=vuser_init,allpha,betta,vuser_end
+Profile Actions name=vuser_init,alpha,betta,hamma,one_item_report,online_payment_report,vuser_end
 [RunLogicEndRoot]
 MercIniTreeFather=""
 MercIniTreeSectionName="RunLogicEndRoot"
@@ -53,22 +53,40 @@ RunLogicObjectKind="Action"
 [RunLogicRunRoot]
 MercIniTreeFather=""
 MercIniTreeSectionName="RunLogicRunRoot"
-MercIniTreeSons="allpha,betta"
+MercIniTreeSons="betta,hamma,one_item_report,online_payment_report,alpha"
 Name="Run"
-RunLogicActionOrder="allpha,betta"
+RunLogicActionOrder="alpha,betta,hamma,one_item_report,online_payment_report"
 RunLogicActionType="VuserRun"
 RunLogicNumOfIterations="1"
 RunLogicObjectKind="Group"
 RunLogicRunMode="Sequential"
-[RunLogicRunRoot:allpha]
+[RunLogicRunRoot:alpha]
 MercIniTreeFather="RunLogicRunRoot"
-MercIniTreeSectionName="allpha"
-Name="allpha"
+MercIniTreeSectionName="alpha"
+Name="alpha"
 RunLogicActionType="VuserRun"
 RunLogicObjectKind="Action"
 [RunLogicRunRoot:betta]
 MercIniTreeFather="RunLogicRunRoot"
 MercIniTreeSectionName="betta"
 Name="betta"
+RunLogicActionType="VuserRun"
+RunLogicObjectKind="Action"
+[RunLogicRunRoot:hamma]
+MercIniTreeFather="RunLogicRunRoot"
+MercIniTreeSectionName="hamma"
+Name="hamma"
+RunLogicActionType="VuserRun"
+RunLogicObjectKind="Action"
+[RunLogicRunRoot:one_item_report]
+MercIniTreeFather="RunLogicRunRoot"
+MercIniTreeSectionName="one_item_report"
+Name="one_item_report"
+RunLogicActionType="VuserRun"
+RunLogicObjectKind="Action"
+[RunLogicRunRoot:online_payment_report]
+MercIniTreeFather="RunLogicRunRoot"
+MercIniTreeSectionName="online_payment_report"
+Name="online_payment_report"
 RunLogicActionType="VuserRun"
 RunLogicObjectKind="Action"

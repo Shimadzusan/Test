@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "transactionName": "операция1:_only_one_item",
+        "rawStartTime": 1584875638008,
+        "rawEndTime": 1584875638175
+    },
+    {
+        "transactionName": "операция2:_only_one_item",
+        "rawStartTime": 1584875638178,
+        "rawEndTime": 1584875638511
+    }
+]

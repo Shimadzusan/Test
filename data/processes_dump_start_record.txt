@@ -95,129 +95,93 @@ Failed to get information of process Id: 9928
 Failed to get information of process Id: 8352
 Failed to get information of process Id: 8684
 Failed to get information of process Id: 10124
-Failed to get information of process Id: 9864
-Failed to get information of process Id: 4552
-Failed to get information of process Id: 6880
-Failed to get information of process Id: 10784
-Failed to get information of process Id: 4500
-Failed to get information of process Id: 8040
-Failed to get information of process Id: 9936
-Failed to get information of process Id: 7736
-Failed to get information of process Id: 372
-Failed to get information of process Id: 7956
-Failed to get information of process Id: 9128
-Failed to get information of process Id: 11048
-Failed to get information of process Id: 2172
-Failed to get information of process Id: 4432
-Failed to get information of process Id: 2084
-Failed to get information of process Id: 11132
-Failed to get information of process Id: 7656
-Failed to get information of process Id: 3232
-Failed to get information of process Id: 9900
-Failed to get information of process Id: 6180
-Failed to get information of process Id: 2268
-Failed to get information of process Id: 10568
-Failed to get information of process Id: 872
-Failed to get information of process Id: 10144
-PROCESS 0xb54       magentproc.exe
-PROCESS 0x23d8      onedrive.exe
-Failed to get information of process Id: 10156
-Failed to get information of process Id: 10244
-Failed to get information of process Id: 11020
-Failed to get information of process Id: 1420
-Failed to get information of process Id: 9476
-Failed to get information of process Id: 6660
-PROCESS 0x1594      eeventmanager.exe
-PROCESS 0x29ac      hpwuschd2.exe
-PROCESS 0x1898      hpstatusalerts.exe
-PROCESS 0x1bb8      bonus.screenshotreader.exe
-PROCESS 0x24f4      acrotray.exe
-PROCESS 0x20bc      jusched.exe
-Failed to get information of process Id: 9896
-Failed to get information of process Id: 6756
-Failed to get information of process Id: 7540
-Failed to get information of process Id: 7280
-Failed to get information of process Id: 10468
-Failed to get information of process Id: 7100
-Failed to get information of process Id: 10504
-Failed to get information of process Id: 7948
-Failed to get information of process Id: 7516
-PROCESS 0x159c      excel.exe
-Failed to get information of process Id: 6564
-Failed to get information of process Id: 9800
-Failed to get information of process Id: 10412
-Failed to get information of process Id: 1272
-Failed to get information of process Id: 120
-Failed to get information of process Id: 10268
-Failed to get information of process Id: 9272
-Failed to get information of process Id: 1168
-Failed to get information of process Id: 9504
-Failed to get information of process Id: 5168
-Failed to get information of process Id: 4492
-Failed to get information of process Id: 10736
-Failed to get information of process Id: 11376
-Failed to get information of process Id: 11560
-Failed to get information of process Id: 4436
-PROCESS 0x2e10      vugen.exe
-PROCESS 0x12ac      rundll32.exe
-PROCESS 0x20c8      rundll32.exe
-PROCESS 0x2524      rundll32.exe
-PROCESS 0x2cfc      rundll32.exe
-Failed to get information of process Id: 11368
-Failed to get information of process Id: 6500
-Failed to get information of process Id: 10376
-Failed to get information of process Id: 2636
-PROCESS 0x1848      rundll32.exe
-Failed to get information of process Id: 12212
-Failed to get information of process Id: 3372
-Failed to get information of process Id: 9672
 Failed to get information of process Id: 10212
-PROCESS 0x7e4       jucheck.exe
 PROCESS 0x2c10      googlecrashhandler.exe
 Failed to get information of process Id: 2156
 Failed to get information of process Id: 3148
-Failed to get information of process Id: 10560
-Failed to get information of process Id: 9844
-Failed to get information of process Id: 6884
-PROCESS 0x221c      photoshoð.exe
-Failed to get information of process Id: 7012
-PROCESS 0x814       adobeipcbroker.exe
-Failed to get information of process Id: 11372
-Failed to get information of process Id: 7592
-Failed to get information of process Id: 5284
-Failed to get information of process Id: 4352
-Failed to get information of process Id: 8820
-Failed to get information of process Id: 10620
-Failed to get information of process Id: 7884
-Failed to get information of process Id: 7376
-Failed to get information of process Id: 9748
-PROCESS 0x2e28      photodoc.exe
-Failed to get information of process Id: 76
-PROCESS 0x1138      applephotostreams.exe
-PROCESS 0x2cd0      telegram.exe
-Failed to get information of process Id: 852
-Failed to get information of process Id: 7388
-Failed to get information of process Id: 5144
-Failed to get information of process Id: 9300
-Failed to get information of process Id: 5132
-Failed to get information of process Id: 7452
-Failed to get information of process Id: 11928
-Failed to get information of process Id: 5804
-Failed to get information of process Id: 12884
-Failed to get information of process Id: 13120
-Failed to get information of process Id: 13248
-Failed to get information of process Id: 13084
-Failed to get information of process Id: 7400
-Failed to get information of process Id: 8416
 PROCESS 0x36f0      agsservice.exe
 PROCESS 0x1484      agmservice.exe
 Failed to get information of process Id: 12328
-Failed to get information of process Id: 11160
-Failed to get information of process Id: 11804
-PROCESS 0xf48       rundll32.exe
-Failed to get information of process Id: 72
-Failed to get information of process Id: 12808
-Failed to get information of process Id: 11856
-Failed to get information of process Id: 10224
-Failed to get information of process Id: 2224
-Failed to get information of process Id: 13604
+Failed to get information of process Id: 1772
+Failed to get information of process Id: 2876
+Failed to get information of process Id: 3364
+Failed to get information of process Id: 4836
+Failed to get information of process Id: 5496
+Failed to get information of process Id: 4780
+Failed to get information of process Id: 13280
+Failed to get information of process Id: 10916
+Failed to get information of process Id: 5824
+Failed to get information of process Id: 14068
+Failed to get information of process Id: 13032
+Failed to get information of process Id: 6500
+Failed to get information of process Id: 1960
+Failed to get information of process Id: 1228
+Failed to get information of process Id: 14140
+Failed to get information of process Id: 2368
+Failed to get information of process Id: 8508
+Failed to get information of process Id: 12540
+Failed to get information of process Id: 2944
+Failed to get information of process Id: 1672
+Failed to get information of process Id: 11744
+Failed to get information of process Id: 7136
+Failed to get information of process Id: 7336
+Failed to get information of process Id: 10108
+Failed to get information of process Id: 8592
+PROCESS 0xb18       magentproc.exe
+PROCESS 0x1414      onedrive.exe
+Failed to get information of process Id: 1376
+Failed to get information of process Id: 14096
+Failed to get information of process Id: 11432
+Failed to get information of process Id: 12408
+Failed to get information of process Id: 12900
+Failed to get information of process Id: 6152
+PROCESS 0x1570      eeventmanager.exe
+PROCESS 0x1f78      hpwuschd2.exe
+PROCESS 0xbf0       hpstatusalerts.exe
+PROCESS 0x1ca0      acrotray.exe
+PROCESS 0x2ef8      jusched.exe
+Failed to get information of process Id: 4796
+Failed to get information of process Id: 7432
+Failed to get information of process Id: 3372
+Failed to get information of process Id: 1564
+Failed to get information of process Id: 10188
+Failed to get information of process Id: 9824
+Failed to get information of process Id: 9428
+Failed to get information of process Id: 12260
+Failed to get information of process Id: 2276
+Failed to get information of process Id: 7080
+Failed to get information of process Id: 556
+Failed to get information of process Id: 648
+Failed to get information of process Id: 9992
+Failed to get information of process Id: 6224
+Failed to get information of process Id: 10548
+Failed to get information of process Id: 9088
+Failed to get information of process Id: 11756
+Failed to get information of process Id: 3184
+Failed to get information of process Id: 1508
+Failed to get information of process Id: 1160
+Failed to get information of process Id: 13716
+Failed to get information of process Id: 13496
+Failed to get information of process Id: 10168
+Failed to get information of process Id: 14056
+Failed to get information of process Id: 12884
+Failed to get information of process Id: 12344
+Failed to get information of process Id: 4472
+Failed to get information of process Id: 13284
+Failed to get information of process Id: 13660
+PROCESS 0x4e4       vugen.exe
+Failed to get information of process Id: 8988
+Failed to get information of process Id: 1280
+Failed to get information of process Id: 11304
+Failed to get information of process Id: 6252
+Failed to get information of process Id: 9296
+Failed to get information of process Id: 2588
+Failed to get information of process Id: 13096
+Failed to get information of process Id: 7804
+Failed to get information of process Id: 9168
+Failed to get information of process Id: 7528
+PROCESS 0x2a58      applephotostreams.exe
+PROCESS 0x2e9c      telegram.exe
+PROCESS 0x18b0      googleupdate.exe
+Failed to get information of process Id: 8844
+Failed to get information of process Id: 7160

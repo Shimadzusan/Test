@@ -1,5 +1,5 @@
-EventId=258
-RecordingNumber=2
+EventId=402
+RecordingNumber=3
 
 ActionInfo
 ActionName=allpha
@@ -14,5 +14,12 @@ ActionId=2
 ActionFileSize=168958
 ActionDeleted=0
 RecordingNumber=2
+EndActionInfo
+
+ActionName=hamma
+ActionId=3
+ActionFileSize=183679
+ActionDeleted=0
+RecordingNumber=3
 EndActionInfo
 

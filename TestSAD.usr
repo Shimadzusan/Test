@@ -24,8 +24,11 @@ Description=
 ScriptLocale=ru-RU
 [Actions]
 vuser_init=vuser_init.c
-allpha=allpha.c
+alpha=alpha.c
 betta=betta.c
+hamma=hamma.c
+one_item_report=one_item_report.c
+online_payment_report=online_payment_report.c
 vuser_end=vuser_end.c
 [RunLogicFiles]
 Default Profile=default.usp
@@ -37,28 +40,43 @@ Default Profile=default.cfg
 globals.h=
 [Modified Actions]
 vuser_init=1
-allpha=1
+alpha=1
 betta=1
+hamma=1
+one_item_report=1
+online_payment_report=1
 vuser_end=0
 [Recorded Actions]
 vuser_init=0
-allpha=1
+alpha=1
 betta=1
+hamma=1
+one_item_report=0
+online_payment_report=0
 vuser_end=0
 [Replayed Actions]
 vuser_init=1
-allpha=1
+alpha=1
 betta=1
+hamma=1
+one_item_report=1
+online_payment_report=1
 vuser_end=1
 [Interpreters]
 vuser_init=cci
-allpha=cci
+alpha=cci
 betta=cci
+hamma=cci
+one_item_report=cci
+online_payment_report=cci
 vuser_end=cci
 [TransactionsOrder]
-Order=
+Order="операция1:_only_one_item__*delimiter*__операция2:_only_one_item"
 [StateManagement]
 LastReplayStatus=1
 [ActiveReplay]
 LastReplayedRunName=result1
 ActiveRunName=result1
+[Transactions]
+операция1:_only_one_item=
+операция2:_only_one_item=

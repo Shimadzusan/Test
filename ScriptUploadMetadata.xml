@@ -4,8 +4,11 @@
   <Protocol>Web - HTTP/HTML</Protocol>
   <ActionFiles>
     <FileEntry Name="vuser_init.c" Filter="2" />
-    <FileEntry Name="allpha.c" Filter="2" />
+    <FileEntry Name="alpha.c" Filter="2" />
     <FileEntry Name="betta.c" Filter="2" />
+    <FileEntry Name="hamma.c" Filter="2" />
+    <FileEntry Name="one_item_report.c" Filter="2" />
+    <FileEntry Name="online_payment_report.c" Filter="2" />
     <FileEntry Name="vuser_end.c" Filter="2" />
   </ActionFiles>
   <GeneralFiles>
@@ -25,6 +28,7 @@
     <FileEntry Name="mdrv.log" Filter="1" />
     <FileEntry Name="mdrv_cmd.txt" Filter="1" />
     <FileEntry Name="options.txt" Filter="1" />
+    <FileEntry Name="output.bak" Filter="1" />
     <FileEntry Name="output.txt" Filter="1" />
     <FileEntry Name="replay.har" Filter="1" />
     <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
@@ -33,7 +37,9 @@
     <FileEntry Name="TestSAD.ci" Filter="1" />
     <FileEntry Name="TestSAD.sdf" Filter="1" />
     <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
+    <FileEntry Name="TransactionsData.db" Filter="1" />
     <FileEntry Name="UserTasks.xml" Filter="1" />
+    <FileEntry Name=".git\" Filter="1" />
     <FileEntry Name="data\" Filter="1" />
     <FileEntry Name="result1\" Filter="1" />
   </GeneralFiles>

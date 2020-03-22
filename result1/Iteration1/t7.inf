@@ -1,6 +1,6 @@
 [t7]
 FileName2=t1_2_favicon.ico
-RawStepEndTime=1584803806449
+RawStepEndTime=1584875635781
 FileName4=t1_0_style.css
 RequestBodyFile=t7_RequestBody.txt
 RawStepName=ServletClassicalReport
@@ -13,7 +13,7 @@ URL4=http://localhost:8081/SAD/style.css
 SnapshotXmlFile=snapshot_7.xml
 RequestHeaderFile=t7_RequestHeader.txt
 SaveSnapshotResources=1
-RawStepStartTime=1584803804365
+RawStepStartTime=1584875633695
 Total=4
 StepName=Submit Data: ServletClassicalReport
 FileName1=t7.html

@@ -1,0 +1,17 @@
+[t9]
+FileName1=t9.html
+URL1=http://localhost:8081/SAD/
+Total=4
+RequestHeaderFile=t9_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t9_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_9.xml
+FileName2=t9_style.css
+URL2=http://localhost:8081/SAD/style.css
+FileName3=t9_script.html
+URL3=http://localhost:8081/SAD/script.js
+FileName4=t9_favicon.ico
+URL4=http://localhost:8081/favicon.ico
+[ProtocolInfo]
+ProtocolId=QTWeb
