@@ -1,0 +1,1 @@
+"data_s={"con":"days","sber":true,"tinkoff":true,"pochta_bank":true,"total":true}"

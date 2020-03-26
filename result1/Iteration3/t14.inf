@@ -1,0 +1,20 @@
+[t14]
+FileName2=t1_6_favicon.ico
+RawStepEndTime=1584879672128
+FileName4=t1_7_style.css
+RequestBodyFile=t14_RequestBody.txt
+RawStepName=ServletReportMode_2
+ContentType=text/html
+URL1=file:
+URL2=http://localhost:8081/favicon.ico
+URL3=http://localhost:8081/SAD/script.js
+ResponseHeaderFile=t14_ResponseHeader.txt
+URL4=http://localhost:8081/SAD/style.css
+SnapshotXmlFile=snapshot_14.xml
+RequestHeaderFile=t14_RequestHeader.txt
+SaveSnapshotResources=1
+RawStepStartTime=1584879672078
+Total=4
+StepName=Custom Request: ServletReportMode_2
+FileName1=t13.html
+FileName3=t1_8_script.UNK

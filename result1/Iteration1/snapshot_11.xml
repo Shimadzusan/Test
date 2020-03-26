@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HTTPSnapshot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="11">
-  <HTTPTask id="14" hostname="localhost:8081" path="/SAD/ServletReportMode" url="http://localhost:8081/SAD/ServletReportMode" ip="127.0.0.1" port="8081" client_ip="127.0.0.1" client_port="59624" connectionId="2120" origin="Primary" encodingType="UTF8" startDateTime="2020-03-22T14:13:58.012+03:00" startTime="6875" endTime="6891" blockedTime="-1" dnsTime="-1" connectTime="-2" sendTime="0" waitTime="6" receiveTime="9" sslNegotiateTime="-1" responseBodySize="160">
+  <HTTPTask id="14" hostname="localhost:8081" path="/SAD/ServletReportMode" url="http://localhost:8081/SAD/ServletReportMode" ip="127.0.0.1" port="8081" client_ip="127.0.0.1" client_port="60282" connectionId="2168" origin="Primary" encodingType="UTF8" startDateTime="2020-03-22T15:21:00.789+03:00" startTime="6485" endTime="6498" blockedTime="-1" dnsTime="-1" connectTime="-2" sendTime="1" waitTime="4" receiveTime="8" sslNegotiateTime="-1" responseBodySize="160">
     <HTTPRequest method="POST">
       <HTTPHeaders>
         <HTTPHeaderEntity name="Content-Type" index="0">
@@ -115,7 +115,7 @@
         <HTTPHeaderEntity name="Date" index="2">
           <HTTPDataSet>
             <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
-              <ActualData>U3VuLCAyMiBNYXIgMjAyMCAxMToxMzo1NyBHTVQ=</ActualData>
+              <ActualData>U3VuLCAyMiBNYXIgMjAyMCAxMjoyMTowMCBHTVQ=</ActualData>
             </HTTPData>
           </HTTPDataSet>
           <IsExternalData>false</IsExternalData>
@@ -139,7 +139,7 @@
         <HTTPAllHeaders>
           <HTTPDataSet>
             <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
-              <ActualData>SFRUUC8xLjEgMjAwIA0KQ29udGVudC1UeXBlOiB0ZXh0L2h0bWw7Y2hhcnNldD11dGYtOA0KQ29udGVudC1MZW5ndGg6IDANCkRhdGU6IFN1biwgMjIgTWFyIDIwMjAgMTE6MTM6NTcgR01UDQpLZWVwLUFsaXZlOiB0aW1lb3V0PTIwDQpDb25uZWN0aW9uOiBrZWVwLWFsaXZlDQoNCg==</ActualData>
+              <ActualData>SFRUUC8xLjEgMjAwIA0KQ29udGVudC1UeXBlOiB0ZXh0L2h0bWw7Y2hhcnNldD11dGYtOA0KQ29udGVudC1MZW5ndGg6IDANCkRhdGU6IFN1biwgMjIgTWFyIDIwMjAgMTI6MjE6MDAgR01UDQpLZWVwLUFsaXZlOiB0aW1lb3V0PTIwDQpDb25uZWN0aW9uOiBrZWVwLWFsaXZlDQoNCg==</ActualData>
             </HTTPData>
           </HTTPDataSet>
           <IsExternalData>false</IsExternalData>

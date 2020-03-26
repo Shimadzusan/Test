@@ -1,0 +1,110 @@
+[
+    {
+        "stepId": "STEP19",
+        "stepName": "Url: SAD",
+        "infFile": "t1.inf",
+        "time": 1584879661541
+    },
+    {
+        "stepId": "STEP20",
+        "stepName": "Custom Request: ServletStandartMode",
+        "infFile": "t2.inf",
+        "time": 1584879661627
+    },
+    {
+        "stepId": "STEP21",
+        "stepName": "Custom Request: ServletStandartMode_2",
+        "infFile": "t3.inf",
+        "time": 1584879661724
+    },
+    {
+        "stepId": "STEP22",
+        "stepName": "Custom Request: ServletStandartMode_2",
+        "infFile": "t4.inf",
+        "time": 1584879661819
+    },
+    {
+        "stepId": "STEP23",
+        "stepName": "Url: SAD",
+        "infFile": "t5.inf",
+        "time": 1584879661876
+    },
+    {
+        "stepId": "STEP24",
+        "stepName": "Custom Request: ServletReportMode",
+        "infFile": "t6.inf",
+        "time": 1584879661964
+    },
+    {
+        "stepId": "STEP25",
+        "stepName": "Submit Data: ServletClassicalReport",
+        "infFile": "t7.inf",
+        "time": 1584879664062
+    },
+    {
+        "stepId": "STEP26",
+        "stepName": "Custom Request: ServletReportMode_2",
+        "infFile": "t8.inf",
+        "time": 1584879664139
+    },
+    {
+        "stepId": "STEP27",
+        "stepName": "Submit Data: ServletClassicalReport_2",
+        "infFile": "t9.inf",
+        "time": 1584879666227
+    },
+    {
+        "stepId": "STEP28",
+        "stepName": "Url: SAD",
+        "infFile": "t10.inf",
+        "time": 1584879666272
+    },
+    {
+        "stepId": "STEP29",
+        "stepName": "Custom Request: ServletReportMode",
+        "infFile": "t11.inf",
+        "time": 1584879666340
+    },
+    {
+        "stepId": "STEP30",
+        "stepName": "Custom Request: ServletOneItem",
+        "infFile": "t12.inf",
+        "time": 1584879666420
+    },
+    {
+        "stepId": "STEP31",
+        "stepName": "Custom Request: ServletOneItem_2",
+        "infFile": "t13.inf",
+        "time": 1584879666522
+    },
+    {
+        "stepId": "STEP32",
+        "stepName": "Custom Request: ServletReportMode_2",
+        "infFile": "t14.inf",
+        "time": 1584879666590
+    },
+    {
+        "stepId": "STEP33",
+        "stepName": "Custom Request: ServletOnlineIncome",
+        "infFile": "t15.inf",
+        "time": 1584879666667
+    },
+    {
+        "stepId": "STEP34",
+        "stepName": "Url: SAD",
+        "infFile": "t16.inf",
+        "time": 1584879666719
+    },
+    {
+        "stepId": "STEP35",
+        "stepName": "Custom Request: ServletReportMode",
+        "infFile": "t17.inf",
+        "time": 1584879666803
+    },
+    {
+        "stepId": "STEP36",
+        "stepName": "Custom Request: ServletOneItem",
+        "infFile": "t18.inf",
+        "time": 1584879666876
+    }
+]

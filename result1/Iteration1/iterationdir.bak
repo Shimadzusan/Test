@@ -4,8 +4,6 @@ SnapshotIndex=I1_vuser_init
 SnapshotIndex=I1_betta
 [alpha]
 SnapshotIndex=I1_alpha
-[online_payment_report]
-SnapshotIndex=I1_online_payment_report
 [hamma]
 SnapshotIndex=I1_hamma
 [one_item_report]

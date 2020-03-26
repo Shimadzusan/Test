@@ -1,0 +1,12 @@
+[betta]
+SnapshotIndex=I3_betta
+[alpha]
+SnapshotIndex=I3_alpha
+[online_payment_report]
+SnapshotIndex=I3_online_payment_report
+[hamma]
+SnapshotIndex=I3_hamma
+[vuser_end]
+SnapshotIndex=I3_vuser_end
+[one_item_report]
+SnapshotIndex=I3_one_item_report

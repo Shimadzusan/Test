@@ -135,7 +135,7 @@
 <Res><![CDATA[result1]]></Res>
 <Action rID="T2">
 <AName><![CDATA[vuser_init]]></AName>
-<Summary sTime="22.03.2020 - 14:13:52" eTime="22.03.2020 - 14:13:52" passed="0" failed="0" warnings="0" ></Summary>
+<Summary sTime="22.03.2020 - 15:20:55" eTime="22.03.2020 - 15:20:55" passed="0" failed="0" warnings="0" ></Summary>
 <NodeArgs eType="StartAction" icon="2" nRep="5" >
 <Disp><![CDATA[vuser_init Summary]]></Disp>
 </NodeArgs>
@@ -146,8 +146,8 @@
 <Step rID="T5">
 <Obj plainTxt="False" ><![CDATA[Url: SAD]]></Obj>
 <Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
-<Time><![CDATA[22.03.2020 - 14:13:53]]></Time>
-<TimeTick>1584875633</TimeTick>
+<Time><![CDATA[22.03.2020 - 15:20:56]]></Time>
+<TimeTick>1584879656</TimeTick>
 <NodeArgs eType="General" icon="4" nRep="9" status="Passed" >
 <Disp><![CDATA[Url: SAD]]></Disp>
 <BtmPane vType="HTMLSNSH" >
@@ -158,8 +158,8 @@
 <Step rID="T6">
 <Obj plainTxt="False" ><![CDATA[Custom Request: ServletStandartMode]]></Obj>
 <Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
-<Time><![CDATA[22.03.2020 - 14:13:53]]></Time>
-<TimeTick>1584875633</TimeTick>
+<Time><![CDATA[22.03.2020 - 15:20:56]]></Time>
+<TimeTick>1584879656</TimeTick>
 <NodeArgs eType="General" icon="5" nRep="10" status="Passed" >
 <Disp><![CDATA[Custom Request: ServletStandartMode]]></Disp>
 <BtmPane vType="HTMLSNSH" >
@@ -170,8 +170,8 @@
 <Step rID="T7">
 <Obj plainTxt="False" ><![CDATA[Custom Request: ServletStandartMode_2]]></Obj>
 <Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
-<Time><![CDATA[22.03.2020 - 14:13:53]]></Time>
-<TimeTick>1584875633</TimeTick>
+<Time><![CDATA[22.03.2020 - 15:20:56]]></Time>
+<TimeTick>1584879656</TimeTick>
 <NodeArgs eType="General" icon="5" nRep="11" status="Passed" >
 <Disp><![CDATA[Custom Request: ServletStandartMode_2]]></Disp>
 <BtmPane vType="HTMLSNSH" >
@@ -182,8 +182,8 @@
 <Step rID="T8">
 <Obj plainTxt="False" ><![CDATA[Custom Request: ServletStandartMode_2]]></Obj>
 <Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
-<Time><![CDATA[22.03.2020 - 14:13:53]]></Time>
-<TimeTick>1584875633</TimeTick>
+<Time><![CDATA[22.03.2020 - 15:20:56]]></Time>
+<TimeTick>1584879656</TimeTick>
 <NodeArgs eType="General" icon="5" nRep="12" status="Passed" >
 <Disp><![CDATA[Custom Request: ServletStandartMode_2]]></Disp>
 <BtmPane vType="HTMLSNSH" >
@@ -191,7 +191,7 @@
 </BtmPane>
 </NodeArgs>
 </Step>
-<Summary sTime="22.03.2020 - 14:13:52" eTime="22.03.2020 - 14:13:53" passed="4" failed="0" warnings="0" ></Summary>
+<Summary sTime="22.03.2020 - 15:20:55" eTime="22.03.2020 - 15:20:56" passed="4" failed="0" warnings="0" ></Summary>
 <NodeArgs eType="StartAction" icon="2" nRep="8" status="Passed" >
 <Disp><![CDATA[alpha Summary]]></Disp>
 </NodeArgs>
@@ -201,8 +201,8 @@
 <Step rID="T10">
 <Obj plainTxt="False" ><![CDATA[Url: SAD]]></Obj>
 <Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
-<Time><![CDATA[22.03.2020 - 14:13:53]]></Time>
-<TimeTick>1584875633</TimeTick>
+<Time><![CDATA[22.03.2020 - 15:20:56]]></Time>
+<TimeTick>1584879656</TimeTick>
 <NodeArgs eType="General" icon="4" nRep="15" status="Passed" >
 <Disp><![CDATA[Url: SAD]]></Disp>
 <BtmPane vType="HTMLSNSH" >
@@ -213,8 +213,8 @@
 <Step rID="T11">
 <Obj plainTxt="False" ><![CDATA[Custom Request: ServletReportMode]]></Obj>
 <Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
-<Time><![CDATA[22.03.2020 - 14:13:53]]></Time>
-<TimeTick>1584875633</TimeTick>
+<Time><![CDATA[22.03.2020 - 15:20:56]]></Time>
+<TimeTick>1584879656</TimeTick>
 <NodeArgs eType="General" icon="5" nRep="16" status="Passed" >
 <Disp><![CDATA[Custom Request: ServletReportMode]]></Disp>
 <BtmPane vType="HTMLSNSH" >
@@ -225,8 +225,8 @@
 <Step rID="T12">
 <Obj plainTxt="False" ><![CDATA[Submit Data: ServletClassicalReport]]></Obj>
 <Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
-<Time><![CDATA[22.03.2020 - 14:13:55]]></Time>
-<TimeTick>1584875635</TimeTick>
+<Time><![CDATA[22.03.2020 - 15:20:58]]></Time>
+<TimeTick>1584879658</TimeTick>
 <NodeArgs eType="General" icon="6" nRep="17" status="Passed" >
 <Disp><![CDATA[Submit Data: ServletClassicalReport]]></Disp>
 <BtmPane vType="HTMLSNSH" >
@@ -237,8 +237,8 @@
 <Step rID="T13">
 <Obj plainTxt="False" ><![CDATA[Custom Request: ServletReportMode_2]]></Obj>
 <Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
-<Time><![CDATA[22.03.2020 - 14:13:55]]></Time>
-<TimeTick>1584875635</TimeTick>
+<Time><![CDATA[22.03.2020 - 15:20:58]]></Time>
+<TimeTick>1584879658</TimeTick>
 <NodeArgs eType="General" icon="5" nRep="18" status="Passed" >
 <Disp><![CDATA[Custom Request: ServletReportMode_2]]></Disp>
 <BtmPane vType="HTMLSNSH" >
@@ -249,8 +249,8 @@
 <Step rID="T14">
 <Obj plainTxt="False" ><![CDATA[Submit Data: ServletClassicalReport_2]]></Obj>
 <Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
-<Time><![CDATA[22.03.2020 - 14:13:57]]></Time>
-<TimeTick>1584875637</TimeTick>
+<Time><![CDATA[22.03.2020 - 15:21:00]]></Time>
+<TimeTick>1584879660</TimeTick>
 <NodeArgs eType="General" icon="6" nRep="19" status="Passed" >
 <Disp><![CDATA[Submit Data: ServletClassicalReport_2]]></Disp>
 <BtmPane vType="HTMLSNSH" >
@@ -258,7 +258,7 @@
 </BtmPane>
 </NodeArgs>
 </Step>
-<Summary sTime="22.03.2020 - 14:13:53" eTime="22.03.2020 - 14:13:57" passed="5" failed="0" warnings="0" ></Summary>
+<Summary sTime="22.03.2020 - 15:20:56" eTime="22.03.2020 - 15:21:00" passed="5" failed="0" warnings="0" ></Summary>
 <NodeArgs eType="StartAction" icon="2" nRep="14" status="Passed" >
 <Disp><![CDATA[betta Summary]]></Disp>
 </NodeArgs>
@@ -268,8 +268,8 @@
 <Step rID="T16">
 <Obj plainTxt="False" ><![CDATA[Url: SAD]]></Obj>
 <Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
-<Time><![CDATA[22.03.2020 - 14:13:58]]></Time>
-<TimeTick>1584875638</TimeTick>
+<Time><![CDATA[22.03.2020 - 15:21:00]]></Time>
+<TimeTick>1584879660</TimeTick>
 <NodeArgs eType="General" icon="4" nRep="22" status="Passed" >
 <Disp><![CDATA[Url: SAD]]></Disp>
 <BtmPane vType="HTMLSNSH" >
@@ -280,8 +280,8 @@
 <Step rID="T17">
 <Obj plainTxt="False" ><![CDATA[Custom Request: ServletReportMode]]></Obj>
 <Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
-<Time><![CDATA[22.03.2020 - 14:13:58]]></Time>
-<TimeTick>1584875638</TimeTick>
+<Time><![CDATA[22.03.2020 - 15:21:00]]></Time>
+<TimeTick>1584879660</TimeTick>
 <NodeArgs eType="General" icon="5" nRep="23" status="Passed" >
 <Disp><![CDATA[Custom Request: ServletReportMode]]></Disp>
 <BtmPane vType="HTMLSNSH" >
@@ -292,8 +292,8 @@
 <Step rID="T18">
 <Obj plainTxt="False" ><![CDATA[Service: Reg Save Param]]></Obj>
 <Details plainTxt="False" ><![CDATA[<CENTER>ParamName =<STRONG><FONT COLOR=#00AF00>newParam</FONT></STRONG><BR>Left Boundary = <STRONG><FONT COLOR=#00AF00>LB/IC=02</FONT></STRONG><BR>Right Boundary = <STRONG><FONT COLOR=#00AF00>RB/IC=2020</FONT></STRONG><BR>Instance = <STRONG><FONT COLOR=#00AF00>Ord=1</FONT></STRONG></CENTER>]]></Details>
-<Time><![CDATA[22.03.2020 - 14:13:58]]></Time>
-<TimeTick>1584875638</TimeTick>
+<Time><![CDATA[22.03.2020 - 15:21:00]]></Time>
+<TimeTick>1584879660</TimeTick>
 <NodeArgs eType="General" icon="7" nRep="24" >
 <Disp><![CDATA[Service: Reg Save Param]]></Disp>
 </NodeArgs>
@@ -301,8 +301,8 @@
 <Step rID="T19">
 <Obj plainTxt="False" ><![CDATA[Custom Request: ServletOneItem]]></Obj>
 <Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
-<Time><![CDATA[22.03.2020 - 14:13:58]]></Time>
-<TimeTick>1584875638</TimeTick>
+<Time><![CDATA[22.03.2020 - 15:21:00]]></Time>
+<TimeTick>1584879660</TimeTick>
 <NodeArgs eType="General" icon="5" nRep="25" status="Passed" >
 <Disp><![CDATA[Custom Request: ServletOneItem]]></Disp>
 <BtmPane vType="HTMLSNSH" >
@@ -313,8 +313,8 @@
 <Step rID="T20">
 <Obj plainTxt="False" ><![CDATA[Custom Request: ServletOneItem_2]]></Obj>
 <Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
-<Time><![CDATA[22.03.2020 - 14:13:58]]></Time>
-<TimeTick>1584875638</TimeTick>
+<Time><![CDATA[22.03.2020 - 15:21:00]]></Time>
+<TimeTick>1584879660</TimeTick>
 <NodeArgs eType="General" icon="5" nRep="26" status="Passed" >
 <Disp><![CDATA[Custom Request: ServletOneItem_2]]></Disp>
 <BtmPane vType="HTMLSNSH" >
@@ -325,8 +325,8 @@
 <Step rID="T21">
 <Obj plainTxt="False" ><![CDATA[Custom Request: ServletReportMode_2]]></Obj>
 <Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
-<Time><![CDATA[22.03.2020 - 14:13:58]]></Time>
-<TimeTick>1584875638</TimeTick>
+<Time><![CDATA[22.03.2020 - 15:21:01]]></Time>
+<TimeTick>1584879661</TimeTick>
 <NodeArgs eType="General" icon="5" nRep="27" status="Passed" >
 <Disp><![CDATA[Custom Request: ServletReportMode_2]]></Disp>
 <BtmPane vType="HTMLSNSH" >
@@ -337,8 +337,8 @@
 <Step rID="T22">
 <Obj plainTxt="False" ><![CDATA[Custom Request: ServletOnlineIncome]]></Obj>
 <Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
-<Time><![CDATA[22.03.2020 - 14:13:58]]></Time>
-<TimeTick>1584875638</TimeTick>
+<Time><![CDATA[22.03.2020 - 15:21:01]]></Time>
+<TimeTick>1584879661</TimeTick>
 <NodeArgs eType="General" icon="5" nRep="28" status="Passed" >
 <Disp><![CDATA[Custom Request: ServletOnlineIncome]]></Disp>
 <BtmPane vType="HTMLSNSH" >
@@ -346,7 +346,7 @@
 </BtmPane>
 </NodeArgs>
 </Step>
-<Summary sTime="22.03.2020 - 14:13:57" eTime="22.03.2020 - 14:13:58" passed="6" failed="0" warnings="0" ></Summary>
+<Summary sTime="22.03.2020 - 15:21:00" eTime="22.03.2020 - 15:21:01" passed="6" failed="0" warnings="0" ></Summary>
 <NodeArgs eType="StartAction" icon="2" nRep="21" status="Passed" >
 <Disp><![CDATA[hamma Summary]]></Disp>
 </NodeArgs>
@@ -356,8 +356,8 @@
 <Step rID="T24">
 <Obj plainTxt="False" ><![CDATA[Url: SAD]]></Obj>
 <Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
-<Time><![CDATA[22.03.2020 - 14:13:58]]></Time>
-<TimeTick>1584875638</TimeTick>
+<Time><![CDATA[22.03.2020 - 15:21:01]]></Time>
+<TimeTick>1584879661</TimeTick>
 <NodeArgs eType="General" icon="4" nRep="31" status="Passed" >
 <Disp><![CDATA[Url: SAD]]></Disp>
 <BtmPane vType="HTMLSNSH" >
@@ -368,8 +368,8 @@
 <Step rID="T25">
 <Obj plainTxt="False" ><![CDATA[Custom Request: ServletReportMode]]></Obj>
 <Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
-<Time><![CDATA[22.03.2020 - 14:13:58]]></Time>
-<TimeTick>1584875638</TimeTick>
+<Time><![CDATA[22.03.2020 - 15:21:01]]></Time>
+<TimeTick>1584879661</TimeTick>
 <NodeArgs eType="General" icon="5" nRep="32" status="Passed" >
 <Disp><![CDATA[Custom Request: ServletReportMode]]></Disp>
 <BtmPane vType="HTMLSNSH" >
@@ -380,8 +380,8 @@
 <Step rID="T26">
 <Obj plainTxt="False" ><![CDATA[Custom Request: ServletOneItem]]></Obj>
 <Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
-<Time><![CDATA[22.03.2020 - 14:13:58]]></Time>
-<TimeTick>1584875638</TimeTick>
+<Time><![CDATA[22.03.2020 - 15:21:01]]></Time>
+<TimeTick>1584879661</TimeTick>
 <NodeArgs eType="General" icon="5" nRep="33" status="Passed" >
 <Disp><![CDATA[Custom Request: ServletOneItem]]></Disp>
 <BtmPane vType="HTMLSNSH" >
@@ -389,14 +389,14 @@
 </BtmPane>
 </NodeArgs>
 </Step>
-<Summary sTime="22.03.2020 - 14:13:58" eTime="22.03.2020 - 14:13:58" passed="3" failed="0" warnings="0" ></Summary>
+<Summary sTime="22.03.2020 - 15:21:01" eTime="22.03.2020 - 15:21:01" passed="3" failed="0" warnings="0" ></Summary>
 <NodeArgs eType="StartAction" icon="2" nRep="30" status="Passed" >
 <Disp><![CDATA[one_item_report Summary]]></Disp>
 </NodeArgs>
 </Action>
 <Action rID="T27">
 <AName><![CDATA[online_payment_report]]></AName>
-<Summary sTime="22.03.2020 - 14:13:58" eTime="22.03.2020 - 14:13:58" passed="0" failed="0" warnings="0" ></Summary>
+<Summary sTime="22.03.2020 - 15:21:01" eTime="22.03.2020 - 15:21:01" passed="0" failed="0" warnings="0" ></Summary>
 <NodeArgs eType="StartAction" icon="2" nRep="35" >
 <Disp><![CDATA[online_payment_report Summary]]></Disp>
 </NodeArgs>
@@ -405,14 +405,544 @@
 <Disp><![CDATA[TestSAD Iteration 1 (Row 1)]]></Disp>
 </NodeArgs>
 </DIter>
-<Action rID="T28">
+<DIter rID="T28" iterID="2" >
+<Action rID="T29">
+<AName><![CDATA[alpha]]></AName>
+<Step rID="T30">
+<Obj plainTxt="False" ><![CDATA[Url: SAD]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[22.03.2020 - 15:21:01]]></Time>
+<TimeTick>1584879661</TimeTick>
+<NodeArgs eType="General" icon="4" nRep="40" status="Passed" >
+<Disp><![CDATA[Url: SAD]]></Disp>
+<BtmPane vType="HTMLSNSH" >
+<Path><![CDATA[\Iteration2\t1.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T31">
+<Obj plainTxt="False" ><![CDATA[Custom Request: ServletStandartMode]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[22.03.2020 - 15:21:01]]></Time>
+<TimeTick>1584879661</TimeTick>
+<NodeArgs eType="General" icon="5" nRep="41" status="Passed" >
+<Disp><![CDATA[Custom Request: ServletStandartMode]]></Disp>
+<BtmPane vType="HTMLSNSH" >
+<Path><![CDATA[\Iteration2\t2.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T32">
+<Obj plainTxt="False" ><![CDATA[Custom Request: ServletStandartMode_2]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[22.03.2020 - 15:21:01]]></Time>
+<TimeTick>1584879661</TimeTick>
+<NodeArgs eType="General" icon="5" nRep="42" status="Passed" >
+<Disp><![CDATA[Custom Request: ServletStandartMode_2]]></Disp>
+<BtmPane vType="HTMLSNSH" >
+<Path><![CDATA[\Iteration2\t3.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T33">
+<Obj plainTxt="False" ><![CDATA[Custom Request: ServletStandartMode_2]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[22.03.2020 - 15:21:01]]></Time>
+<TimeTick>1584879661</TimeTick>
+<NodeArgs eType="General" icon="5" nRep="43" status="Passed" >
+<Disp><![CDATA[Custom Request: ServletStandartMode_2]]></Disp>
+<BtmPane vType="HTMLSNSH" >
+<Path><![CDATA[\Iteration2\t4.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Summary sTime="22.03.2020 - 15:21:01" eTime="22.03.2020 - 15:21:01" passed="4" failed="0" warnings="0" ></Summary>
+<NodeArgs eType="StartAction" icon="2" nRep="39" status="Passed" >
+<Disp><![CDATA[alpha Summary]]></Disp>
+</NodeArgs>
+</Action>
+<Action rID="T34">
+<AName><![CDATA[betta]]></AName>
+<Step rID="T35">
+<Obj plainTxt="False" ><![CDATA[Url: SAD]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[22.03.2020 - 15:21:01]]></Time>
+<TimeTick>1584879661</TimeTick>
+<NodeArgs eType="General" icon="4" nRep="46" status="Passed" >
+<Disp><![CDATA[Url: SAD]]></Disp>
+<BtmPane vType="HTMLSNSH" >
+<Path><![CDATA[\Iteration2\t5.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T36">
+<Obj plainTxt="False" ><![CDATA[Custom Request: ServletReportMode]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[22.03.2020 - 15:21:01]]></Time>
+<TimeTick>1584879661</TimeTick>
+<NodeArgs eType="General" icon="5" nRep="47" status="Passed" >
+<Disp><![CDATA[Custom Request: ServletReportMode]]></Disp>
+<BtmPane vType="HTMLSNSH" >
+<Path><![CDATA[\Iteration2\t6.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T37">
+<Obj plainTxt="False" ><![CDATA[Submit Data: ServletClassicalReport]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[22.03.2020 - 15:21:04]]></Time>
+<TimeTick>1584879664</TimeTick>
+<NodeArgs eType="General" icon="6" nRep="48" status="Passed" >
+<Disp><![CDATA[Submit Data: ServletClassicalReport]]></Disp>
+<BtmPane vType="HTMLSNSH" >
+<Path><![CDATA[\Iteration2\t7.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T38">
+<Obj plainTxt="False" ><![CDATA[Custom Request: ServletReportMode_2]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[22.03.2020 - 15:21:04]]></Time>
+<TimeTick>1584879664</TimeTick>
+<NodeArgs eType="General" icon="5" nRep="49" status="Passed" >
+<Disp><![CDATA[Custom Request: ServletReportMode_2]]></Disp>
+<BtmPane vType="HTMLSNSH" >
+<Path><![CDATA[\Iteration2\t8.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T39">
+<Obj plainTxt="False" ><![CDATA[Submit Data: ServletClassicalReport_2]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[22.03.2020 - 15:21:06]]></Time>
+<TimeTick>1584879666</TimeTick>
+<NodeArgs eType="General" icon="6" nRep="50" status="Passed" >
+<Disp><![CDATA[Submit Data: ServletClassicalReport_2]]></Disp>
+<BtmPane vType="HTMLSNSH" >
+<Path><![CDATA[\Iteration2\t9.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Summary sTime="22.03.2020 - 15:21:01" eTime="22.03.2020 - 15:21:06" passed="5" failed="0" warnings="0" ></Summary>
+<NodeArgs eType="StartAction" icon="2" nRep="45" status="Passed" >
+<Disp><![CDATA[betta Summary]]></Disp>
+</NodeArgs>
+</Action>
+<Action rID="T40">
+<AName><![CDATA[hamma]]></AName>
+<Step rID="T41">
+<Obj plainTxt="False" ><![CDATA[Url: SAD]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[22.03.2020 - 15:21:06]]></Time>
+<TimeTick>1584879666</TimeTick>
+<NodeArgs eType="General" icon="4" nRep="53" status="Passed" >
+<Disp><![CDATA[Url: SAD]]></Disp>
+<BtmPane vType="HTMLSNSH" >
+<Path><![CDATA[\Iteration2\t10.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T42">
+<Obj plainTxt="False" ><![CDATA[Custom Request: ServletReportMode]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[22.03.2020 - 15:21:06]]></Time>
+<TimeTick>1584879666</TimeTick>
+<NodeArgs eType="General" icon="5" nRep="54" status="Passed" >
+<Disp><![CDATA[Custom Request: ServletReportMode]]></Disp>
+<BtmPane vType="HTMLSNSH" >
+<Path><![CDATA[\Iteration2\t11.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T43">
+<Obj plainTxt="False" ><![CDATA[Service: Reg Save Param]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER>ParamName =<STRONG><FONT COLOR=#00AF00>newParam</FONT></STRONG><BR>Left Boundary = <STRONG><FONT COLOR=#00AF00>LB/IC=02</FONT></STRONG><BR>Right Boundary = <STRONG><FONT COLOR=#00AF00>RB/IC=2020</FONT></STRONG><BR>Instance = <STRONG><FONT COLOR=#00AF00>Ord=1</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[22.03.2020 - 15:21:06]]></Time>
+<TimeTick>1584879666</TimeTick>
+<NodeArgs eType="General" icon="7" nRep="55" >
+<Disp><![CDATA[Service: Reg Save Param]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T44">
+<Obj plainTxt="False" ><![CDATA[Custom Request: ServletOneItem]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[22.03.2020 - 15:21:06]]></Time>
+<TimeTick>1584879666</TimeTick>
+<NodeArgs eType="General" icon="5" nRep="56" status="Passed" >
+<Disp><![CDATA[Custom Request: ServletOneItem]]></Disp>
+<BtmPane vType="HTMLSNSH" >
+<Path><![CDATA[\Iteration2\t12.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T45">
+<Obj plainTxt="False" ><![CDATA[Custom Request: ServletOneItem_2]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[22.03.2020 - 15:21:06]]></Time>
+<TimeTick>1584879666</TimeTick>
+<NodeArgs eType="General" icon="5" nRep="57" status="Passed" >
+<Disp><![CDATA[Custom Request: ServletOneItem_2]]></Disp>
+<BtmPane vType="HTMLSNSH" >
+<Path><![CDATA[\Iteration2\t13.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T46">
+<Obj plainTxt="False" ><![CDATA[Custom Request: ServletReportMode_2]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[22.03.2020 - 15:21:06]]></Time>
+<TimeTick>1584879666</TimeTick>
+<NodeArgs eType="General" icon="5" nRep="58" status="Passed" >
+<Disp><![CDATA[Custom Request: ServletReportMode_2]]></Disp>
+<BtmPane vType="HTMLSNSH" >
+<Path><![CDATA[\Iteration2\t14.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T47">
+<Obj plainTxt="False" ><![CDATA[Custom Request: ServletOnlineIncome]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[22.03.2020 - 15:21:06]]></Time>
+<TimeTick>1584879666</TimeTick>
+<NodeArgs eType="General" icon="5" nRep="59" status="Passed" >
+<Disp><![CDATA[Custom Request: ServletOnlineIncome]]></Disp>
+<BtmPane vType="HTMLSNSH" >
+<Path><![CDATA[\Iteration2\t15.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Summary sTime="22.03.2020 - 15:21:06" eTime="22.03.2020 - 15:21:06" passed="6" failed="0" warnings="0" ></Summary>
+<NodeArgs eType="StartAction" icon="2" nRep="52" status="Passed" >
+<Disp><![CDATA[hamma Summary]]></Disp>
+</NodeArgs>
+</Action>
+<Action rID="T48">
+<AName><![CDATA[one_item_report]]></AName>
+<Step rID="T49">
+<Obj plainTxt="False" ><![CDATA[Url: SAD]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[22.03.2020 - 15:21:06]]></Time>
+<TimeTick>1584879666</TimeTick>
+<NodeArgs eType="General" icon="4" nRep="62" status="Passed" >
+<Disp><![CDATA[Url: SAD]]></Disp>
+<BtmPane vType="HTMLSNSH" >
+<Path><![CDATA[\Iteration2\t16.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T50">
+<Obj plainTxt="False" ><![CDATA[Custom Request: ServletReportMode]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[22.03.2020 - 15:21:06]]></Time>
+<TimeTick>1584879666</TimeTick>
+<NodeArgs eType="General" icon="5" nRep="63" status="Passed" >
+<Disp><![CDATA[Custom Request: ServletReportMode]]></Disp>
+<BtmPane vType="HTMLSNSH" >
+<Path><![CDATA[\Iteration2\t17.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T51">
+<Obj plainTxt="False" ><![CDATA[Custom Request: ServletOneItem]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[22.03.2020 - 15:21:06]]></Time>
+<TimeTick>1584879666</TimeTick>
+<NodeArgs eType="General" icon="5" nRep="64" status="Passed" >
+<Disp><![CDATA[Custom Request: ServletOneItem]]></Disp>
+<BtmPane vType="HTMLSNSH" >
+<Path><![CDATA[\Iteration2\t18.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Summary sTime="22.03.2020 - 15:21:06" eTime="22.03.2020 - 15:21:06" passed="3" failed="0" warnings="0" ></Summary>
+<NodeArgs eType="StartAction" icon="2" nRep="61" status="Passed" >
+<Disp><![CDATA[one_item_report Summary]]></Disp>
+</NodeArgs>
+</Action>
+<Action rID="T52">
+<AName><![CDATA[online_payment_report]]></AName>
+<Summary sTime="22.03.2020 - 15:21:06" eTime="22.03.2020 - 15:21:06" passed="0" failed="0" warnings="0" ></Summary>
+<NodeArgs eType="StartAction" icon="2" nRep="66" >
+<Disp><![CDATA[online_payment_report Summary]]></Disp>
+</NodeArgs>
+</Action>
+<NodeArgs eType="StartIteration" icon="3" nRep="38" status="Passed" >
+<Disp><![CDATA[TestSAD Iteration 2 (Row 2)]]></Disp>
+</NodeArgs>
+</DIter>
+<DIter rID="T53" iterID="3" >
+<Action rID="T54">
+<AName><![CDATA[alpha]]></AName>
+<Step rID="T55">
+<Obj plainTxt="False" ><![CDATA[Url: SAD]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[22.03.2020 - 15:21:07]]></Time>
+<TimeTick>1584879667</TimeTick>
+<NodeArgs eType="General" icon="4" nRep="71" status="Passed" >
+<Disp><![CDATA[Url: SAD]]></Disp>
+<BtmPane vType="HTMLSNSH" >
+<Path><![CDATA[\Iteration3\t1.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T56">
+<Obj plainTxt="False" ><![CDATA[Custom Request: ServletStandartMode]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[22.03.2020 - 15:21:07]]></Time>
+<TimeTick>1584879667</TimeTick>
+<NodeArgs eType="General" icon="5" nRep="72" status="Passed" >
+<Disp><![CDATA[Custom Request: ServletStandartMode]]></Disp>
+<BtmPane vType="HTMLSNSH" >
+<Path><![CDATA[\Iteration3\t2.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T57">
+<Obj plainTxt="False" ><![CDATA[Custom Request: ServletStandartMode_2]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[22.03.2020 - 15:21:07]]></Time>
+<TimeTick>1584879667</TimeTick>
+<NodeArgs eType="General" icon="5" nRep="73" status="Passed" >
+<Disp><![CDATA[Custom Request: ServletStandartMode_2]]></Disp>
+<BtmPane vType="HTMLSNSH" >
+<Path><![CDATA[\Iteration3\t3.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T58">
+<Obj plainTxt="False" ><![CDATA[Custom Request: ServletStandartMode_2]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[22.03.2020 - 15:21:07]]></Time>
+<TimeTick>1584879667</TimeTick>
+<NodeArgs eType="General" icon="5" nRep="74" status="Passed" >
+<Disp><![CDATA[Custom Request: ServletStandartMode_2]]></Disp>
+<BtmPane vType="HTMLSNSH" >
+<Path><![CDATA[\Iteration3\t4.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Summary sTime="22.03.2020 - 15:21:06" eTime="22.03.2020 - 15:21:07" passed="4" failed="0" warnings="0" ></Summary>
+<NodeArgs eType="StartAction" icon="2" nRep="70" status="Passed" >
+<Disp><![CDATA[alpha Summary]]></Disp>
+</NodeArgs>
+</Action>
+<Action rID="T59">
+<AName><![CDATA[betta]]></AName>
+<Step rID="T60">
+<Obj plainTxt="False" ><![CDATA[Url: SAD]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[22.03.2020 - 15:21:07]]></Time>
+<TimeTick>1584879667</TimeTick>
+<NodeArgs eType="General" icon="4" nRep="77" status="Passed" >
+<Disp><![CDATA[Url: SAD]]></Disp>
+<BtmPane vType="HTMLSNSH" >
+<Path><![CDATA[\Iteration3\t5.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T61">
+<Obj plainTxt="False" ><![CDATA[Custom Request: ServletReportMode]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[22.03.2020 - 15:21:07]]></Time>
+<TimeTick>1584879667</TimeTick>
+<NodeArgs eType="General" icon="5" nRep="78" status="Passed" >
+<Disp><![CDATA[Custom Request: ServletReportMode]]></Disp>
+<BtmPane vType="HTMLSNSH" >
+<Path><![CDATA[\Iteration3\t6.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T62">
+<Obj plainTxt="False" ><![CDATA[Submit Data: ServletClassicalReport]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[22.03.2020 - 15:21:09]]></Time>
+<TimeTick>1584879669</TimeTick>
+<NodeArgs eType="General" icon="6" nRep="79" status="Passed" >
+<Disp><![CDATA[Submit Data: ServletClassicalReport]]></Disp>
+<BtmPane vType="HTMLSNSH" >
+<Path><![CDATA[\Iteration3\t7.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T63">
+<Obj plainTxt="False" ><![CDATA[Custom Request: ServletReportMode_2]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[22.03.2020 - 15:21:09]]></Time>
+<TimeTick>1584879669</TimeTick>
+<NodeArgs eType="General" icon="5" nRep="80" status="Passed" >
+<Disp><![CDATA[Custom Request: ServletReportMode_2]]></Disp>
+<BtmPane vType="HTMLSNSH" >
+<Path><![CDATA[\Iteration3\t8.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T64">
+<Obj plainTxt="False" ><![CDATA[Submit Data: ServletClassicalReport_2]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[22.03.2020 - 15:21:11]]></Time>
+<TimeTick>1584879671</TimeTick>
+<NodeArgs eType="General" icon="6" nRep="81" status="Passed" >
+<Disp><![CDATA[Submit Data: ServletClassicalReport_2]]></Disp>
+<BtmPane vType="HTMLSNSH" >
+<Path><![CDATA[\Iteration3\t9.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Summary sTime="22.03.2020 - 15:21:07" eTime="22.03.2020 - 15:21:11" passed="5" failed="0" warnings="0" ></Summary>
+<NodeArgs eType="StartAction" icon="2" nRep="76" status="Passed" >
+<Disp><![CDATA[betta Summary]]></Disp>
+</NodeArgs>
+</Action>
+<Action rID="T65">
+<AName><![CDATA[hamma]]></AName>
+<Step rID="T66">
+<Obj plainTxt="False" ><![CDATA[Url: SAD]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[22.03.2020 - 15:21:11]]></Time>
+<TimeTick>1584879671</TimeTick>
+<NodeArgs eType="General" icon="4" nRep="84" status="Passed" >
+<Disp><![CDATA[Url: SAD]]></Disp>
+<BtmPane vType="HTMLSNSH" >
+<Path><![CDATA[\Iteration3\t10.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T67">
+<Obj plainTxt="False" ><![CDATA[Custom Request: ServletReportMode]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[22.03.2020 - 15:21:11]]></Time>
+<TimeTick>1584879671</TimeTick>
+<NodeArgs eType="General" icon="5" nRep="85" status="Passed" >
+<Disp><![CDATA[Custom Request: ServletReportMode]]></Disp>
+<BtmPane vType="HTMLSNSH" >
+<Path><![CDATA[\Iteration3\t11.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T68">
+<Obj plainTxt="False" ><![CDATA[Service: Reg Save Param]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER>ParamName =<STRONG><FONT COLOR=#00AF00>newParam</FONT></STRONG><BR>Left Boundary = <STRONG><FONT COLOR=#00AF00>LB/IC=02</FONT></STRONG><BR>Right Boundary = <STRONG><FONT COLOR=#00AF00>RB/IC=2020</FONT></STRONG><BR>Instance = <STRONG><FONT COLOR=#00AF00>Ord=1</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[22.03.2020 - 15:21:11]]></Time>
+<TimeTick>1584879671</TimeTick>
+<NodeArgs eType="General" icon="7" nRep="86" >
+<Disp><![CDATA[Service: Reg Save Param]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T69">
+<Obj plainTxt="False" ><![CDATA[Custom Request: ServletOneItem]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[22.03.2020 - 15:21:11]]></Time>
+<TimeTick>1584879671</TimeTick>
+<NodeArgs eType="General" icon="5" nRep="87" status="Passed" >
+<Disp><![CDATA[Custom Request: ServletOneItem]]></Disp>
+<BtmPane vType="HTMLSNSH" >
+<Path><![CDATA[\Iteration3\t12.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T70">
+<Obj plainTxt="False" ><![CDATA[Custom Request: ServletOneItem_2]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[22.03.2020 - 15:21:12]]></Time>
+<TimeTick>1584879672</TimeTick>
+<NodeArgs eType="General" icon="5" nRep="88" status="Passed" >
+<Disp><![CDATA[Custom Request: ServletOneItem_2]]></Disp>
+<BtmPane vType="HTMLSNSH" >
+<Path><![CDATA[\Iteration3\t13.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T71">
+<Obj plainTxt="False" ><![CDATA[Custom Request: ServletReportMode_2]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[22.03.2020 - 15:21:12]]></Time>
+<TimeTick>1584879672</TimeTick>
+<NodeArgs eType="General" icon="5" nRep="89" status="Passed" >
+<Disp><![CDATA[Custom Request: ServletReportMode_2]]></Disp>
+<BtmPane vType="HTMLSNSH" >
+<Path><![CDATA[\Iteration3\t14.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T72">
+<Obj plainTxt="False" ><![CDATA[Custom Request: ServletOnlineIncome]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[22.03.2020 - 15:21:12]]></Time>
+<TimeTick>1584879672</TimeTick>
+<NodeArgs eType="General" icon="5" nRep="90" status="Passed" >
+<Disp><![CDATA[Custom Request: ServletOnlineIncome]]></Disp>
+<BtmPane vType="HTMLSNSH" >
+<Path><![CDATA[\Iteration3\t15.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Summary sTime="22.03.2020 - 15:21:11" eTime="22.03.2020 - 15:21:12" passed="6" failed="0" warnings="0" ></Summary>
+<NodeArgs eType="StartAction" icon="2" nRep="83" status="Passed" >
+<Disp><![CDATA[hamma Summary]]></Disp>
+</NodeArgs>
+</Action>
+<Action rID="T73">
+<AName><![CDATA[one_item_report]]></AName>
+<Step rID="T74">
+<Obj plainTxt="False" ><![CDATA[Url: SAD]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[22.03.2020 - 15:21:12]]></Time>
+<TimeTick>1584879672</TimeTick>
+<NodeArgs eType="General" icon="4" nRep="93" status="Passed" >
+<Disp><![CDATA[Url: SAD]]></Disp>
+<BtmPane vType="HTMLSNSH" >
+<Path><![CDATA[\Iteration3\t16.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T75">
+<Obj plainTxt="False" ><![CDATA[Custom Request: ServletReportMode]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[22.03.2020 - 15:21:12]]></Time>
+<TimeTick>1584879672</TimeTick>
+<NodeArgs eType="General" icon="5" nRep="94" status="Passed" >
+<Disp><![CDATA[Custom Request: ServletReportMode]]></Disp>
+<BtmPane vType="HTMLSNSH" >
+<Path><![CDATA[\Iteration3\t17.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T76">
+<Obj plainTxt="False" ><![CDATA[Custom Request: ServletOneItem]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[22.03.2020 - 15:21:12]]></Time>
+<TimeTick>1584879672</TimeTick>
+<NodeArgs eType="General" icon="5" nRep="95" status="Passed" >
+<Disp><![CDATA[Custom Request: ServletOneItem]]></Disp>
+<BtmPane vType="HTMLSNSH" >
+<Path><![CDATA[\Iteration3\t18.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Summary sTime="22.03.2020 - 15:21:12" eTime="22.03.2020 - 15:21:12" passed="3" failed="0" warnings="0" ></Summary>
+<NodeArgs eType="StartAction" icon="2" nRep="92" status="Passed" >
+<Disp><![CDATA[one_item_report Summary]]></Disp>
+</NodeArgs>
+</Action>
+<Action rID="T77">
+<AName><![CDATA[online_payment_report]]></AName>
+<Summary sTime="22.03.2020 - 15:21:12" eTime="22.03.2020 - 15:21:12" passed="0" failed="0" warnings="0" ></Summary>
+<NodeArgs eType="StartAction" icon="2" nRep="97" >
+<Disp><![CDATA[online_payment_report Summary]]></Disp>
+</NodeArgs>
+</Action>
+<NodeArgs eType="StartIteration" icon="3" nRep="69" status="Passed" >
+<Disp><![CDATA[TestSAD Iteration 3 (Row 3)]]></Disp>
+</NodeArgs>
+</DIter>
+<Action rID="T78">
 <AName><![CDATA[vuser_end]]></AName>
-<Summary sTime="22.03.2020 - 14:13:58" eTime="22.03.2020 - 14:13:58" passed="0" failed="0" warnings="0" ></Summary>
-<NodeArgs eType="StartAction" icon="2" nRep="38" >
+<Summary sTime="22.03.2020 - 15:21:12" eTime="22.03.2020 - 15:21:12" passed="0" failed="0" warnings="0" ></Summary>
+<NodeArgs eType="StartAction" icon="2" nRep="100" >
 <Disp><![CDATA[vuser_end Summary]]></Disp>
 </NodeArgs>
 </Action>
-<Summary sTime="22.03.2020 - 14:13:51" eTime="22.03.2020 - 14:13:58" passed="18" failed="0" warnings="0" ></Summary>
+<Summary sTime="22.03.2020 - 15:20:54" eTime="22.03.2020 - 15:21:12" passed="54" failed="0" warnings="0" ></Summary>
 <NodeArgs eType="StartTest" icon="1" nRep="4" status="Passed" >
 <Disp><![CDATA[Test TestSAD Summary]]></Disp>
 </NodeArgs>

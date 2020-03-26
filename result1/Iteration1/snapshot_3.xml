@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HTTPSnapshot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="3">
-  <HTTPTask id="6" hostname="localhost:8081" path="/SAD/ServletStandartMode" url="http://localhost:8081/SAD/ServletStandartMode" ip="127.0.0.1" port="8081" client_ip="127.0.0.1" client_port="59624" connectionId="2120" origin="Primary" encodingType="UTF8" startDateTime="2020-03-22T14:13:53.249+03:00" startTime="2113" endTime="2152" blockedTime="-1" dnsTime="-1" connectTime="-2" sendTime="0" waitTime="17" receiveTime="21" sslNegotiateTime="-1" responseBodySize="415">
+  <HTTPTask id="6" hostname="localhost:8081" path="/SAD/ServletStandartMode" url="http://localhost:8081/SAD/ServletStandartMode" ip="127.0.0.1" port="8081" client_ip="127.0.0.1" client_port="60282" connectionId="2168" origin="Primary" encodingType="UTF8" startDateTime="2020-03-22T15:20:56.190+03:00" startTime="1885" endTime="1919" blockedTime="-1" dnsTime="-1" connectTime="-2" sendTime="0" waitTime="16" receiveTime="17" sslNegotiateTime="-1" responseBodySize="415">
     <HTTPRequest method="POST">
       <HTTPHeaders>
         <HTTPHeaderEntity name="Content-Type" index="0">
@@ -115,7 +115,7 @@
         <HTTPHeaderEntity name="Date" index="2">
           <HTTPDataSet>
             <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
-              <ActualData>U3VuLCAyMiBNYXIgMjAyMCAxMToxMzo1MiBHTVQ=</ActualData>
+              <ActualData>U3VuLCAyMiBNYXIgMjAyMCAxMjoyMDo1NSBHTVQ=</ActualData>
             </HTTPData>
           </HTTPDataSet>
           <IsExternalData>false</IsExternalData>
@@ -139,7 +139,7 @@
         <HTTPAllHeaders>
           <HTTPDataSet>
             <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
-              <ActualData>SFRUUC8xLjEgMjAwIA0KQ29udGVudC1UeXBlOiB0ZXh0L2h0bWw7Y2hhcnNldD11dGYtOA0KQ29udGVudC1MZW5ndGg6IDI1Mw0KRGF0ZTogU3VuLCAyMiBNYXIgMjAyMCAxMToxMzo1MiBHTVQNCktlZXAtQWxpdmU6IHRpbWVvdXQ9MjANCkNvbm5lY3Rpb246IGtlZXAtYWxpdmUNCg0K</ActualData>
+              <ActualData>SFRUUC8xLjEgMjAwIA0KQ29udGVudC1UeXBlOiB0ZXh0L2h0bWw7Y2hhcnNldD11dGYtOA0KQ29udGVudC1MZW5ndGg6IDI1Mw0KRGF0ZTogU3VuLCAyMiBNYXIgMjAyMCAxMjoyMDo1NSBHTVQNCktlZXAtQWxpdmU6IHRpbWVvdXQ9MjANCkNvbm5lY3Rpb246IGtlZXAtYWxpdmUNCg0K</ActualData>
             </HTTPData>
           </HTTPDataSet>
           <IsExternalData>false</IsExternalData>

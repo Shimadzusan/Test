@@ -95,6 +95,7 @@
 
 	lr_think_time(6);
 
+
 	web_custom_request("ServletOnlineIncome", 
 		"URL=http://localhost:8081/SAD/ServletOnlineIncome", 
 		"Method=POST", 

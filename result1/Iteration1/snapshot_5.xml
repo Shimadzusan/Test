@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HTTPSnapshot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="5">
-  <HTTPTask id="8" path="//localhost:8081/SAD/" url="http://localhost:8081/SAD/" origin="Primary" startDateTime="2020-03-22T14:13:53.488+03:00" startTime="2352" endTime="2352" blockedTime="0" dnsTime="0" connectTime="0" sendTime="0" waitTime="0" receiveTime="0" sslNegotiateTime="0">
+  <HTTPTask id="8" path="//localhost:8081/SAD/" url="http://localhost:8081/SAD/" origin="Primary" startDateTime="2020-03-22T15:20:56.373+03:00" startTime="2068" endTime="2068" blockedTime="0" dnsTime="0" connectTime="0" sendTime="0" waitTime="0" receiveTime="0" sslNegotiateTime="0">
     <HTTPRequest method="GET" />
     <HTTPResponse>
       <contentLenght>0</contentLenght>

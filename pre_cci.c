@@ -2682,8 +2682,10 @@ betta()
 	 
 
 	lr_think_time(10);
+	
+	lr_start_transaction("операция3:_classical_report");
 
-	web_custom_request("ServletReportMode", 
+	web_custom_request("ServletReportMode",
 		"URL=http://localhost:8081/SAD/ServletReportMode", 
 		"Method=POST", 
 		"Resource=0", 
@@ -2693,6 +2695,10 @@ betta()
 		"Mode=HTML", 
 		"Body=date_one=02.03.2020&date_two=10.03.2020&type_of_report=classical report", 
 		"LAST");
+	
+	lr_end_transaction("операция3:_classical_report", 2);
+	
+	lr_start_transaction("операция4:_standart_report");
 
 	web_submit_data("ServletClassicalReport", 
 		"Action=http://localhost:8081/SAD/ServletClassicalReport", 
@@ -2704,6 +2710,8 @@ betta()
 		"ITEMDATA", 
 		"Name=data_s", "Value=StandartChiefReport", "ENDITEM", 
 		"LAST");
+	
+	lr_end_transaction("операция4:_standart_report", 2);
 
 	 
 
@@ -2832,6 +2840,7 @@ hamma()
 		"LAST");
 
 	lr_think_time(6);
+
 
 	web_custom_request("ServletOnlineIncome", 
 		"URL=http://localhost:8081/SAD/ServletOnlineIncome", 

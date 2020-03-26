@@ -1,0 +1,22 @@
+[
+    {
+        "transactionName": "операция3:_classical_report",
+        "rawStartTime": 1584879667449,
+        "rawEndTime": 1584879667530
+    },
+    {
+        "transactionName": "операция4:_standart_report",
+        "rawStartTime": 1584879667532,
+        "rawEndTime": 1584879669613
+    },
+    {
+        "transactionName": "операция1:_only_one_item",
+        "rawStartTime": 1584879671840,
+        "rawEndTime": 1584879672000
+    },
+    {
+        "transactionName": "операция2:_only_one_item",
+        "rawStartTime": 1584879672003,
+        "rawEndTime": 1584879672218
+    }
+]

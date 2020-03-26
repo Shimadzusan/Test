@@ -71,12 +71,14 @@ one_item_report=cci
 online_payment_report=cci
 vuser_end=cci
 [TransactionsOrder]
-Order="операция1:_only_one_item__*delimiter*__операция2:_only_one_item"
+Order="операция3:_classical_report__*delimiter*__операция4:_standart_report__*delimiter*__операция1:_only_one_item__*delimiter*__операция2:_only_one_item"
 [StateManagement]
 LastReplayStatus=1
 [ActiveReplay]
 LastReplayedRunName=result1
 ActiveRunName=result1
 [Transactions]
+операция3:_classical_report=
+операция4:_standart_report=
 операция1:_only_one_item=
 операция2:_only_one_item=

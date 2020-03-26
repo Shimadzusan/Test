@@ -1,0 +1,20 @@
+[t5]
+FileName2=t1_6_favicon.ico
+RawStepEndTime=1584879667432
+FileName4=t1_7_style.css
+RequestBodyFile=t5_RequestBody.txt
+RawStepName=SAD
+ContentType=text/html
+URL1=http://localhost:8081/SAD/
+URL2=http://localhost:8081/favicon.ico
+URL3=http://localhost:8081/SAD/script.js
+ResponseHeaderFile=t5_ResponseHeader.txt
+URL4=http://localhost:8081/SAD/style.css
+SnapshotXmlFile=snapshot_5.xml
+RequestHeaderFile=t5_RequestHeader.txt
+SaveSnapshotResources=1
+RawStepStartTime=1584879667396
+Total=4
+StepName=Url: SAD
+FileName1=t5.html
+FileName3=t1_8_script.UNK
